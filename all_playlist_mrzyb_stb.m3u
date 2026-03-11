@@ -6,40 +6,40 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgkQIzx7DEAv7fpm7s-yA4j4ABXV4n9W4LEsrqAphmcsboXI6_e-Rou98qOfXUVEh0yfoVEum8lwM0kvqCZB6YlMjv_H5TSFikKbrVC7rLXIHmyY17Kqzs2nweNtgoQkBwQXip4SQhniHZzh94dbKZKyfLcbN6w30Ba4wzkVazlRK6-aGOLuGJwM8N9jEK/s4080/PicRetouch_20250406_235012823.png" group-title="Channel Lokal",INDOSIAR 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Indosiar.webp" group-title="Channel Lokal",INDOSIAR 
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgkQIzx7DEAv7fpm7s-yA4j4ABXV4n9W4LEsrqAphmcsboXI6_e-Rou98qOfXUVEh0yfoVEum8lwM0kvqCZB6YlMjv_H5TSFikKbrVC7rLXIHmyY17Kqzs2nweNtgoQkBwQXip4SQhniHZzh94dbKZKyfLcbN6w30Ba4wzkVazlRK6-aGOLuGJwM8N9jEK/s4080/PicRetouch_20250406_235012823.png" group-title="Channel Lokal",INDOSIAR 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Indosiar.webp" group-title="Channel Lokal",INDOSIAR 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTbPzZ1Uv6jtiYFb1eSz_-QD1e6P5Cvjv4seAMoKxGRbARo25nhQMbJwFvM-cB-bRTkPeRri4hggGHLGCzq79BqPKSrB6BsFz9Q40r4QPI46BXgZ_D2AGxFtsdAiDuyqXWBYh4Msx5wLu7OrjYniDhPsb3LOew-7GHBvIPqhvbO4QlzoGBOt5c7DfYBCxv/s2131/mnctv.png" group-title="Channel Lokal",MNC TV 
+#EXTINF:-1 tvg-id="2" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/mnctv.webp" group-title="Channel Lokal",MNC TV 
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTbPzZ1Uv6jtiYFb1eSz_-QD1e6P5Cvjv4seAMoKxGRbARo25nhQMbJwFvM-cB-bRTkPeRri4hggGHLGCzq79BqPKSrB6BsFz9Q40r4QPI46BXgZ_D2AGxFtsdAiDuyqXWBYh4Msx5wLu7OrjYniDhPsb3LOew-7GHBvIPqhvbO4QlzoGBOt5c7DfYBCxv/s2131/mnctv.png" group-title="Channel Lokal",MNC TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/mnctv.webp" group-title="Channel Lokal",MNC TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTbPzZ1Uv6jtiYFb1eSz_-QD1e6P5Cvjv4seAMoKxGRbARo25nhQMbJwFvM-cB-bRTkPeRri4hggGHLGCzq79BqPKSrB6BsFz9Q40r4QPI46BXgZ_D2AGxFtsdAiDuyqXWBYh4Msx5wLu7OrjYniDhPsb3LOew-7GHBvIPqhvbO4QlzoGBOt5c7DfYBCxv/s2131/mnctv.png" group-title="Channel Lokal",MNC TV R+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/mnctv.webp" group-title="Channel Lokal",MNC TV 
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTbPzZ1Uv6jtiYFb1eSz_-QD1e6P5Cvjv4seAMoKxGRbARo25nhQMbJwFvM-cB-bRTkPeRri4hggGHLGCzq79BqPKSrB6BsFz9Q40r4QPI46BXgZ_D2AGxFtsdAiDuyqXWBYh4Msx5wLu7OrjYniDhPsb3LOew-7GHBvIPqhvbO4QlzoGBOt5c7DfYBCxv/s2131/mnctv.png" group-title="Channel Lokal",MNC TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/mnctv.webp" group-title="Channel Lokal",MNC TV 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmHzho2PerdlU7WlgXquNr3DbYEUepf211SiEFflunMKWeGG3BQzkE2Zbq9k36yuPxaURBDnqddUK82fvwb4_lxJ0GKBJq6eoEHgbyQ3_cZJLZKYWblNQm9xsLOfpGsHkVziDoB5T9qnMDLFAkLI8N3RXfKk_O8lmFMyZUZAOTVQoQt9FCoUKDBZuJOvXY/s4080/PicRetouch_20250407_092423520.png" group-title="Channel Lokal", ANTV 
+#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Antv.webp" group-title="Channel Lokal", ANTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7tbIfE-OyFvp4Vqgib7RyJwpfuxewBntrvk3lmRAg7OamnrTSd4A89jcwsOh84wxogTl0E2h60jXY0jm5T9ZgHRvQY0s8kyrTUAGpiAJB24i_mC5fqLQO4rUr78LsKlAiDGLQhYHoo2zwzSzhAta-wfiBb491jKQsaZBRfzHQx78og21XdHH-_VydbO_/s320/rcti.png" group-title="Channel Lokal",RCTI 
+#EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/rcti.webp" group-title="Channel Lokal",RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,204 +47,200 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7tbIfE-OyFvp4Vqgib7RyJwpfuxewBntrvk3lmRAg7OamnrTSd4A89jcwsOh84wxogTl0E2h60jXY0jm5T9ZgHRvQY0s8kyrTUAGpiAJB24i_mC5fqLQO4rUr78LsKlAiDGLQhYHoo2zwzSzhAta-wfiBb491jKQsaZBRfzHQx78og21XdHH-_VydbO_/s320/rcti.png" group-title="Channel Lokal",RCTI 
+#EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/rcti.webp" group-title="Channel Lokal",RCTI 
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7tbIfE-OyFvp4Vqgib7RyJwpfuxewBntrvk3lmRAg7OamnrTSd4A89jcwsOh84wxogTl0E2h60jXY0jm5T9ZgHRvQY0s8kyrTUAGpiAJB24i_mC5fqLQO4rUr78LsKlAiDGLQhYHoo2zwzSzhAta-wfiBb491jKQsaZBRfzHQx78og21XdHH-_VydbO_/s320/rcti.png" group-title="Channel Lokal",RCTI 
+#EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/rcti.webp" group-title="Channel Lokal",RCTI 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh5STAz94Nwmqmzy5_rpN0vK6jmxB6ll0eFxm8cbrYyH_MugV7NWBHrXT2J2PzD3X3nW8pd6qC_nUm-FMnNfRocCxXdiCuW4bEchkIWoB_4Xqp4bmsqNDsdhUShAVnq3_MaKOI_gUUpIzpIt9plMHzMLFE8XEfR_foo0Vzu4TXQ9zaDN0iJL_1VlgldegH/s2131/sctv.png" group-title="Channel Lokal",SCTV DN
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/sctv.webp" group-title="Channel Lokal",SCTV DN
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh5STAz94Nwmqmzy5_rpN0vK6jmxB6ll0eFxm8cbrYyH_MugV7NWBHrXT2J2PzD3X3nW8pd6qC_nUm-FMnNfRocCxXdiCuW4bEchkIWoB_4Xqp4bmsqNDsdhUShAVnq3_MaKOI_gUUpIzpIt9plMHzMLFE8XEfR_foo0Vzu4TXQ9zaDN0iJL_1VlgldegH/s2131/sctv.png" group-title="Channel Lokal",SCTV 
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/sctv.webp" group-title="Channel Lokal",SCTV 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ9aZ6zwFtBigSV66fH8_-zR44BF1k_xZjU8JrPohk5LoU_LHZ9q84uTAy31-69kBxo7kKPP_E_v0-EkwkXs3MiMJPvsZ8Qd3Wyr3TKo-PRkmIogn3f5itJJMNRnbRUuz605AH-JouCDvnQctU4-SniVf5pYbsJUw8bCZ0BWGNOvc5a1J8aO6K0P3C6gvH/s2131/globaltv.png" group-title="Channel Lokal",GTV 
+#EXTINF:-1 tvg-id="6" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/globaltv.webp" group-title="Channel Lokal",GTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="6" tvg-url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ9aZ6zwFtBigSV66fH8_-zR44BF1k_xZjU8JrPohk5LoU_LHZ9q84uTAy31-69kBxo7kKPP_E_v0-EkwkXs3MiMJPvsZ8Qd3Wyr3TKo-PRkmIogn3f5itJJMNRnbRUuz605AH-JouCDvnQctU4-SniVf5pYbsJUw8bCZ0BWGNOvc5a1J8aO6K0P3C6gvH/s2131/globaltv.png" group-title="Channel Lokal",GTV 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1 tvg-id="7" group-title="Channel Lokal" tvg-id="Trans7.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-BcBp173V9on8YX_QDQYpN8jJ3rtCCTP_r32kxs6ycfP6ofA2daYVHY962_HpAsNqGmtc0JGgsvhQRwVwKNgvWluNIWV6BjmYNC25-CSAVaaCpgMi94F1r28J9aaUWNPRMFgAUqImGWI-krM46CBlG52TEoPPhuPrziG1CnkVebplnFVLmBX94HMoHLs/s2131/trans7.png",TRANS 7 
+#EXTINF:-1 tvg-id="7" group-title="Channel Lokal" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/trans7.webp",TRANS 7 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-BcBp173V9on8YX_QDQYpN8jJ3rtCCTP_r32kxs6ycfP6ofA2daYVHY962_HpAsNqGmtc0JGgsvhQRwVwKNgvWluNIWV6BjmYNC25-CSAVaaCpgMi94F1r28J9aaUWNPRMFgAUqImGWI-krM46CBlG52TEoPPhuPrziG1CnkVebplnFVLmBX94HMoHLs/s2131/trans7.png" group-title="Channel Lokal",TRANS 7 
+#EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/trans7.webp" group-title="Channel Lokal",TRANS 7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6GWdk5BkmWhsjYIsdY1uxbAP39Hfp889O8R51Pd5Y4U2t636Bevr2Es6Ph6MWxPlb5gLyL7FuDR6AqDuHUI2hhwXEga3Ig7P8RQ4XniD1cGmkoUVIlF7zIm7FvGLkeOa21Qr_JCqLMYYKS-B0Qec6UIU3BZSkoDG1AHM2Orx4CeaZzaTxRzfv4Eppk3fg/s2131/transtv.png" group-title="Channel Lokal", TRANS TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/transtv.webp" group-title="Channel Lokal", TRANS TV 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6GWdk5BkmWhsjYIsdY1uxbAP39Hfp889O8R51Pd5Y4U2t636Bevr2Es6Ph6MWxPlb5gLyL7FuDR6AqDuHUI2hhwXEga3Ig7P8RQ4XniD1cGmkoUVIlF7zIm7FvGLkeOa21Qr_JCqLMYYKS-B0Qec6UIU3BZSkoDG1AHM2Orx4CeaZzaTxRzfv4Eppk3fg/s2131/transtv.png" group-title="Channel Lokal",TRANS TV 
+#EXTINF:-1 tvg-id="8" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/transtv.webp" group-title="Channel Lokal",TRANS TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibmMrjDEDtth3H7maIO4syARrZMWt1uNTcleRwhR6_P6JoMOLwDCMMvtfUOK3mz4k09ItUxL8FQ40ICXsBOIMV0AWoYQbF6mrI8-hpPJDB2htWvKDG8zOX31W5o5yWffjlnCPg1bArLpLhPep2SH26AWpIsZ6BMP3PwuuOL0gBOCt6AHddkht2NHXfIk5J/s320/AIRetouch_20260309_125523893.png" group-title="Channel Lokal", MDTV 
+#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Mdtv.webp" group-title="Channel Lokal", MDTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibmMrjDEDtth3H7maIO4syARrZMWt1uNTcleRwhR6_P6JoMOLwDCMMvtfUOK3mz4k09ItUxL8FQ40ICXsBOIMV0AWoYQbF6mrI8-hpPJDB2htWvKDG8zOX31W5o5yWffjlnCPg1bArLpLhPep2SH26AWpIsZ6BMP3PwuuOL0gBOCt6AHddkht2NHXfIk5J/s320/AIRetouch_20260309_125523893.png" group-title="Channel Lokal", MDTV 
+#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Mdtv.webp" group-title="Channel Lokal", MDTV 
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibmMrjDEDtth3H7maIO4syARrZMWt1uNTcleRwhR6_P6JoMOLwDCMMvtfUOK3mz4k09ItUxL8FQ40ICXsBOIMV0AWoYQbF6mrI8-hpPJDB2htWvKDG8zOX31W5o5yWffjlnCPg1bArLpLhPep2SH26AWpIsZ6BMP3PwuuOL0gBOCt6AHddkht2NHXfIk5J/s320/AIRetouch_20260309_125523893.png" group-title="Channel Lokal", MDTV 
+#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/globaltv.webp" group-title="Channel Lokal", MDTV 
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_e4PermyZkuIYJWW__jmQlajHfx8ZtBxUTrA9Tk8Hb0pVgWlZAhwKh8T1Hc9h5Lz3jAVD-8WjeYseplxuuRrqcgYSM1bjOhl9L3_v4AETict6ezB6xVe8tjg2CmxWiuIaQabjva752wpaJu34RAuTrTyVGqpVl4M3MvTLAgckFI6pEOLkHecoabMAVV9B/s4080/PicRetouch_20250407_092708541.png" group-title="Channel Lokal", RTV 
+#EXTINF:-1 tvg-id="10" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Rtv.webp" group-title="Channel Lokal", RTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_e4PermyZkuIYJWW__jmQlajHfx8ZtBxUTrA9Tk8Hb0pVgWlZAhwKh8T1Hc9h5Lz3jAVD-8WjeYseplxuuRrqcgYSM1bjOhl9L3_v4AETict6ezB6xVe8tjg2CmxWiuIaQabjva752wpaJu34RAuTrTyVGqpVl4M3MvTLAgckFI6pEOLkHecoabMAVV9B/s4080/PicRetouch_20250407_092708541.png" group-title="Channel Lokal", RTV 
+#EXTINF:-1 tvg-id="10" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Rtv.webp" group-title="Channel Lokal", RTV 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_e4PermyZkuIYJWW__jmQlajHfx8ZtBxUTrA9Tk8Hb0pVgWlZAhwKh8T1Hc9h5Lz3jAVD-8WjeYseplxuuRrqcgYSM1bjOhl9L3_v4AETict6ezB6xVe8tjg2CmxWiuIaQabjva752wpaJu34RAuTrTyVGqpVl4M3MvTLAgckFI6pEOLkHecoabMAVV9B/s4080/PicRetouch_20250407_092708541.png" group-title="Channel Lokal", RTV 
+#EXTINF:-1 tvg-id="10" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Rtv.webp" group-title="Channel Lokal", RTV 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="11" group-title="Channel Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEins_2fd7yum-q4SNZJYWySfQrtGInfHFDCXEabAxiqgJKXB8qM5lC3jPIUXzKzzm1sQzUFe5H-N_sv5NZ0Cb9gXZOv_mcbtzzszcavYPJJPrVzjc8hysXkfg65OAS84EUkpLF5ZDw2EFpKIYQOekj6csvDpLaPa116ntA44HI3hPTW7fLN59MpqEMv3LLH/s4080/PicRetouch_20250407_092642655.png",MENTARI TV 
+#EXTINF:-1 tvg-id="11" group-title="Channel Lokal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Mentaritv.webp",MENTARI TV 
 #EXTVLCOPT:http-referrer=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0aLB9-kiPo9dSF_AVQBqaYkUBJEWnpLjWeqCGfFpwNsT0wynx9zXQJbzAnutpQiOmsQVNQxEJ-mN53VJnpA1u5PGQfUnkYaX7zieFdeDaIDdLoFXvvbMI1zMNakMbXULq0iu3OigY_9p1gGFJ_6zu93FB-YF8f0P2-MKYFYxpQEULeCREv0FHaBwCMF0/s4080/PicRetouch_20250406_234257753.png" group-title="Channel Lokal", BTV 
+#EXTINF:-1 tvg-id="13" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Btv.webp" group-title="Channel Lokal", BTV 
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0aLB9-kiPo9dSF_AVQBqaYkUBJEWnpLjWeqCGfFpwNsT0wynx9zXQJbzAnutpQiOmsQVNQxEJ-mN53VJnpA1u5PGQfUnkYaX7zieFdeDaIDdLoFXvvbMI1zMNakMbXULq0iu3OigY_9p1gGFJ_6zu93FB-YF8f0P2-MKYFYxpQEULeCREv0FHaBwCMF0/s4080/PicRetouch_20250406_234257753.png" group-title="Channel Lokal", BTV 
+#EXTINF:-1 tvg-id="13" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Btv.webp" group-title="Channel Lokal", BTV 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/36d936f64cd2482ebc077567dbcf0919/index.mpd
 
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7kg-mXR-UCzPQggZlo0LpejNuBmPgcJ3dD2zL6ztHHiMa8w_B2NKrxtlDU_f_PoBA-YtzqytsSkAEN6ZviOIqzyxhIRkFrtNthwAo-tlPc8uYGmZBCxZC1ItDcPuAh3aK1LKEFkS-lpyqm4GNZDVdODV4S0Y3FbflkFEC-P7j50RLvkGmifvGjOUPGWz/s4080/PicRetouch_20250407_092815635.png" group-title="Channel Lokal", MOJI 
+#EXTINF:-1 tvg-id="14" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Mojitv.webp" group-title="Channel Lokal", MOJI 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7kg-mXR-UCzPQggZlo0LpejNuBmPgcJ3dD2zL6ztHHiMa8w_B2NKrxtlDU_f_PoBA-YtzqytsSkAEN6ZviOIqzyxhIRkFrtNthwAo-tlPc8uYGmZBCxZC1ItDcPuAh3aK1LKEFkS-lpyqm4GNZDVdODV4S0Y3FbflkFEC-P7j50RLvkGmifvGjOUPGWz/s4080/PicRetouch_20250407_092815635.png" group-title="Channel Lokal", MOJI 
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Mojitv.webp" group-title="Channel Lokal", MOJI 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu4aftas-OjZK2mLT0G8WwQbf3IAMukHrxV2IcnEhFgqCBqKohO5_l_nuMoZDRbFBOZTioS9_C1vq4orkJCtrq18B-uAbMbEli85rZUQykEcNIdXo8aXI28tjWlZWQRJaA-Yl0wYRlJ5ARV-eeb88hcOlu9aEMTM3oYRYTKBbf9GvwV-UepzjVrm6klhpH/s4080/PicRetouch_20250407_092731649.png" group-title="Channel Lokal", TVONE 
+#EXTINF:-1 tvg-id="15" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Tvone.webp" group-title="Channel Lokal", TVONE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu4aftas-OjZK2mLT0G8WwQbf3IAMukHrxV2IcnEhFgqCBqKohO5_l_nuMoZDRbFBOZTioS9_C1vq4orkJCtrq18B-uAbMbEli85rZUQykEcNIdXo8aXI28tjWlZWQRJaA-Yl0wYRlJ5ARV-eeb88hcOlu9aEMTM3oYRYTKBbf9GvwV-UepzjVrm6klhpH/s4080/PicRetouch_20250407_092731649.png" group-title="Channel Lokal", TVONE 
+#EXTINF:-1 tvg-id="15" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Tvone.webp" group-title="Channel Lokal", TVONE 
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu4aftas-OjZK2mLT0G8WwQbf3IAMukHrxV2IcnEhFgqCBqKohO5_l_nuMoZDRbFBOZTioS9_C1vq4orkJCtrq18B-uAbMbEli85rZUQykEcNIdXo8aXI28tjWlZWQRJaA-Yl0wYRlJ5ARV-eeb88hcOlu9aEMTM3oYRYTKBbf9GvwV-UepzjVrm6klhpH/s4080/PicRetouch_20250407_092731649.png" group-title="Channel Lokal", TVONE 
+#EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Tvone.webp" group-title="Channel Lokal", TVONE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch109.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCXZxFHPTFnHU8qMP3VDB1gPXNF1rvu7igo06W-yBmsDNWZnU6v8fIYtE9EiK6nRk9FoULu4b5lNpHlNCHnAu6uUsxmFPv6jBwuRRdWnZNRdocBzP3nJx6RNJS_Z8klicGz-J3W72JnrQqSqjNOzxZXDdQbMx2AVaQYStlTmbwN-2t5_ipfOLkvqKrWCKc/s4080/PicRetouch_20250406_234624074.png" group-title="Channel Lokal",METRO TV 
+#EXTINF:-1 tvg-id="16" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Metrotv.webp" group-title="Channel Lokal",METRO TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 
-#EXTINF:-1 tvg-id="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCXZxFHPTFnHU8qMP3VDB1gPXNF1rvu7igo06W-yBmsDNWZnU6v8fIYtE9EiK6nRk9FoULu4b5lNpHlNCHnAu6uUsxmFPv6jBwuRRdWnZNRdocBzP3nJx6RNJS_Z8klicGz-J3W72JnrQqSqjNOzxZXDdQbMx2AVaQYStlTmbwN-2t5_ipfOLkvqKrWCKc/s4080/PicRetouch_20250406_234624074.png" group-title="Channel Lokal",METRO TV 
+#EXTINF:-1 tvg-id="16" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Metrotv.webp" group-title="Channel Lokal",METRO TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMJOBc8p0LY6pwAu3TZQHSViufJK36-k7BYDHw4Qr46k4NBmFtkzHzN-EeHPOF8CwDLoUh_Ds9WbEEILKLARwDuI3Bk7FCBynHPKg26u9LjKEEqUZ5pJisB3f463DcRyJuIl6wr5JlBVQG4yTJaBkcI8xq3TH6tTgdBZLNZdTo0yfqsWmFmg5rBk2vHGxv/s4080/PicRetouch_20250406_234650279.png" group-title="Channel Lokal", KOMPAS TV 
+#EXTINF:-1 tvg-id="17" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Kompastv.webp" group-title="Channel Lokal", KOMPAS TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMJOBc8p0LY6pwAu3TZQHSViufJK36-k7BYDHw4Qr46k4NBmFtkzHzN-EeHPOF8CwDLoUh_Ds9WbEEILKLARwDuI3Bk7FCBynHPKg26u9LjKEEqUZ5pJisB3f463DcRyJuIl6wr5JlBVQG4yTJaBkcI8xq3TH6tTgdBZLNZdTo0yfqsWmFmg5rBk2vHGxv/s4080/PicRetouch_20250406_234650279.png" group-title="Channel Lokal", KOMPAS TV 
+#EXTINF:-1 tvg-id="17" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Kompastv.webp" group-title="Channel Lokal", KOMPAS TV 
 https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="18" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6YlursCqCM9YfLl68Avzlq-ocy9QSAUE8GF_c0tPJFpBF7jcEV4QbtTN6kbFxdB-ieH_ICbfarN0ubRjO0S1baAant0jxeJswWmc5AJv-JU5o85Ud2uin-e_FbbIiUlIu3r7O1lmWSmUs7TcI4iZ-eBODbcuole1qVfpEBIqHTpoRwu6dR2a1YR9c3FtS/s4080/PicRetouch_20250406_234527354.png" group-title="Channel Lokal",iNEWS 
+#EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Inews.webp" group-title="Channel Lokal",iNEWS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 tvg-id="18" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6YlursCqCM9YfLl68Avzlq-ocy9QSAUE8GF_c0tPJFpBF7jcEV4QbtTN6kbFxdB-ieH_ICbfarN0ubRjO0S1baAant0jxeJswWmc5AJv-JU5o85Ud2uin-e_FbbIiUlIu3r7O1lmWSmUs7TcI4iZ-eBODbcuole1qVfpEBIqHTpoRwu6dR2a1YR9c3FtS/s4080/PicRetouch_20250406_234527354.png" group-title="Channel Lokal",iNEWS 
+#EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Inews.webp" group-title="Channel Lokal",iNEWS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTINF:-1 tvg-id="19" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVyfJLmcnkBtitEZNxiJ3_Lbn_6JqAxliB1C9sgIrrx4eAXPxXsdc2-uuGjziCurw3qtJcn7iypi-lPsL4Tz4qh5RkoxhZOtuBWdbML4Z_QUChu7acPlyrUaBPaO3ocSRXYRiVrtG2aKEE7TCeuatn-E8VEt35ALhyphenhyphenMZZjl4LjTv8hPtmkyLH7xO2ZTUuR/s4080/PicRetouch_20250406_234419536.png" group-title="Channel Lokal", TVRI 
+#EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Tvri.webp" group-title="Channel Lokal", TVRI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Channel Lokal/hls/Channel Lokal.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVyfJLmcnkBtitEZNxiJ3_Lbn_6JqAxliB1C9sgIrrx4eAXPxXsdc2-uuGjziCurw3qtJcn7iypi-lPsL4Tz4qh5RkoxhZOtuBWdbML4Z_QUChu7acPlyrUaBPaO3ocSRXYRiVrtG2aKEE7TCeuatn-E8VEt35ALhyphenhyphenMZZjl4LjTv8hPtmkyLH7xO2ZTUuR/s4080/PicRetouch_20250406_234419536.png" group-title="Channel Lokal", TVRI 
+#EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Tvri.webp" group-title="Channel Lokal", TVRI 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Ggpn11EzNtoPaol8eorw0Sz-Ny8BqG3WymLIlgAQvfG3AHzqdz61Ko1MJaLf3g1K7QnEUA7BkrP8qRv3HH4ytrVVwZ4KOikjFuKPh9PyZ72-QHrshtjBlzSRjgidiQAtJYARYP7-KNUHpjl9bFtlAilaJMvgHrCVTWvRveHsJNa_gKfWiP5IUxCzToJW/s4080/PicRetouch_20250406_234227403.png" group-title="Channel Lokal",CNN INDONESIA
+#EXTINF:-1 tvg-id="20" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Cnnindonesia.webp" group-title="Channel Lokal",CNN INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
  
-#EXTINF:-1 tvg-id="21" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPOTJtrjFAMtVWBSkpVqvnR19pDzTH7pGKKtF9Tyk6ILLmetQIC6-uf9dea5Eeskqqmp-lVoxAuq0dqNYWBIF58uXmbuiHEvXpKwRhlSL2YM8Sxdrc8vcGa-L4_VtqWcNaPS2ftUpE759T1buKw9N-MylXb8WUTmavdL6tzua_kdfUFN5-A8I7E4qALYnO/s4080/PicRetouch_20250406_234326656.png" group-title="Channel Lokal",CNBC INDONESIA
+#EXTINF:-1 tvg-id="21" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Cnbcindonesia.webp" group-title="Channel Lokal",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w481242722_b384000_sleng.m3u8
  
-#EXTINF:-1 tvg-id="22" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih7YGSlGCfECiaQxhBtfENgr8PEq2nEQKRS2QajASDR6qrVpSHLhxXanj7RKRRTfMlGw2EGQ99nFGPf5LxuUi7ylpwkQpjjTndcgSEhGbiHvfnwgol9e1TemxRFBvE_efUMavt7KZ161jSga_9RtjEx2UNdxhhkGdnYsjT7sAuy8cA7Ew2ZlKs01sT8Hqr/s4080/PicRetouch_20250406_234450459.png" group-title="Channel Lokal",IDX CHANNEL 
+#EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/idx.webp" group-title="Channel Lokal",IDX CHANNEL 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
 
-#EXTINF:-1 tvg-id="22" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih7YGSlGCfECiaQxhBtfENgr8PEq2nEQKRS2QajASDR6qrVpSHLhxXanj7RKRRTfMlGw2EGQ99nFGPf5LxuUi7ylpwkQpjjTndcgSEhGbiHvfnwgol9e1TemxRFBvE_efUMavt7KZ161jSga_9RtjEx2UNdxhhkGdnYsjT7sAuy8cA7Ew2ZlKs01sT8Hqr/s4080/PicRetouch_20250406_234450459.png" group-title="Channel Lokal",IDX CHANNEL 
+#EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Idx.webp" group-title="Channel Lokal",IDX CHANNEL 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
 
-#EXTINF:-1 tvg-id="25" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ7wjxfncYUJzp2AnAXRTpjH_iWZVzbc1eO_dsrow2J445uETBxpakOLltchPUTzacSSxbTEVb0gMFcVjD6cuL8Mfiddz_FdZOSJAal1yvoUdGqtnz6W5cy9x0wZT1kTGCKxxIDdCIpjGUmxV5rHQpw6qOCgyzRZ4p_wlAdDGFcIU5v54bB1maa02D59OY/s4080/PicRetouch_20250407_092448380.png" group-title="Channel Lokal",DAAI TV
+#EXTINF:-1 tvg-id="25" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Daaitv.webp" group-title="Channel Lokal",DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 
-#EXTINF:-1 tvg-id="26" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPBRM0bNLLlUEGiaEDO4kLyK3ai36dTk-TRGmabxHdb4CHIeXUe6gxi2guqkMXU0f2V06iTUOn5Qf1owf2LPmN-E_4PtYYc5GqJ7r_C_sdywnmYjfpjP_jBN-Zra1rooeaQWfQbt5mgmPxdiasYrO_UNh9duTfMVBnvqfzTgKCI9JeaAa0pYNvBMQ4560y/s4080/PicRetouch_20250407_092751751.png" group-title="Channel Lokal", NUSANTARA TV
+#EXTINF:-1 tvg-id="26" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Ntv.webp" group-title="Channel Lokal", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="28" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJqPZYHrZ6KAJkMNe31fDerJ6V1jqbl5vNy4wGkNvnmgA1wHF54qiAwUTksFPLJL5BJbEqshLYPwuv6t4ImkroWCbQSQ1P7uVv-b5c6IIVCcoXaEYr2PN-gZDQd4Uj1k4eq7BBOPxK65Aw8CDrNv__5QiKBo6XzifVicJ39xCsJ0Grb5a3ysVmQyemTbk5/s4080/PicRetouch_20250406_234135858.png" group-title="Channel Lokal",MAGNA CHANNEL
+#EXTINF:-1 tvg-id="28" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Magna.webp" group-title="Channel Lokal",MAGNA CHANNEL
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwFG3I6pGFRwW_rXeanZnSikFoUHV-4mznGlb67Pqe-zLM-V1-Wp7T7l2EKuX0ZzauYCZ1BnTUttFr7qouO34oj0KzElbLqYVp0paxoPTNqS-pXTDBD_WGALF4BGDX6uOkH1C7aNlYRg1oSJpwTsE3SbNKwTS-47gnVsNgYQ7dpAqlcUhzftE7bXmRYek2/s4080/PicRetouch_20250407_092510160.png" group-title="Channel Lokal",GARUDA TV
+#EXTINF:-1 tvg-id="29" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Garudatv.webp" group-title="Channel Lokal",GARUDA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
@@ -253,233 +249,233 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 =====Murotal====
 
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",001. Alfatihah (Pembukaan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",001. Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",002. Al-Baqarah (Lembu Betina)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",002. Al-Baqarah (Lembu Betina)
 https://archive.org/download/MurotalMR/002.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",003. Ali 'Imran (Keluarga Imran)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",003. Ali 'Imran (Keluarga Imran)
 https://archive.org/download/MurotalMR/003.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",004. An-Nisaa' (Wanita)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",004. An-Nisaa' (Wanita)
 https://archive.org/download/MurotalMR/004.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",005. Al-An'aam (Binatang Ternakan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",005. Al-An'aam (Binatang Ternakan)
 https://archive.org/download/MurotalMR/006.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",006. Al-A'raaf (Tempat Tertinggi)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",006. Al-A'raaf (Tempat Tertinggi)
 https://archive.org/download/MurotalMR/007.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",007. Al-Anfaal (Rampasan Perang)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",007. Al-Anfaal (Rampasan Perang)
 https://archive.org/download/MurotalMR/008.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",008. At-Taubah (Pengampunan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",008. At-Taubah (Pengampunan)
 https://archive.org/download/MurotalMR/009.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",009. Yunus (Nabi Yunus a.s.)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",009. Yunus (Nabi Yunus a.s.)
 https://archive.org/download/MurotalMR/010.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",010. Hud (Nabi Hud a.s.)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",010. Hud (Nabi Hud a.s.)
 https://archive.org/download/MurotalMR/011.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",011. Yusuf (Nabi Yusuf a.s.)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",011. Yusuf (Nabi Yusuf a.s.)
 https://archive.org/download/MurotalMR/012.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",012. Ar-Ra'd (Guruh)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",012. Ar-Ra'd (Guruh)
 https://archive.org/download/MurotalMR/013.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",013. Al-Maa'idah (Hidangan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",013. Al-Maa'idah (Hidangan)
 https://archive.org/download/MurotalMR/005.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",014. Ibrahim (Nabi Ibrahim a.s.)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",014. Ibrahim (Nabi Ibrahim a.s.)
 https://archive.org/download/MurotalMR/014.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",,015. Al-Hijr (Kawasan Berbatu)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",,015. Al-Hijr (Kawasan Berbatu)
 https://archive.org/download/MurotalMR/015.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",016. An-Nahl (Lebah)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",016. An-Nahl (Lebah)
 https://archive.org/download/MurotalMR/016.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",017. Al-Israa' (Perjalanan Malam)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",017. Al-Israa' (Perjalanan Malam)
 https://archive.org/download/MurotalMR/017.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",018. Al-Kahfi (Gua)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",018. Al-Kahfi (Gua)
 https://archive.org/download/MurotalMR/018.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",019. Maryam (Siti Maryam)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",019. Maryam (Siti Maryam)
 https://archive.org/download/MurotalMR/019.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",020. Taahaa
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",020. Taahaa
 https://archive.org/download/MurotalMR/020.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",021. Al-Anbiyaa' (Para Nabi)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",021. Al-Anbiyaa' (Para Nabi)
 https://archive.org/download/MurotalMR/021.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",022. Al-Hajj (Haji)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",022. Al-Hajj (Haji)
 https://archive.org/download/MurotalMR/022.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",023. Al-Mu'minun (Golongan yang Beriman)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",023. Al-Mu'minun (Golongan yang Beriman)
 https://archive.org/download/MurotalMR/023.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",024. An-Nuur (Cahaya)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",024. An-Nuur (Cahaya)
 https://archive.org/download/MurotalMR/024.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",025. Al-Furqaan (Pembeda Hak & Bathil)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",025. Al-Furqaan (Pembeda Hak & Bathil)
 https://archive.org/download/MurotalMR/025.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",026. Asy-Syu'araa (Para Penyair)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",026. Asy-Syu'araa (Para Penyair)
 https://archive.org/download/MurotalMR/026.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",027. An-Naml (Semut)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",027. An-Naml (Semut)
 https://archive.org/download/MurotalMR/027.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",028. Al-Qasas (Cerita-cerita)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",028. Al-Qasas (Cerita-cerita)
 https://archive.org/download/MurotalMR/028.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",029. Al-'Ankabut (Labah-labah)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",029. Al-'Ankabut (Labah-labah)
 https://archive.org/download/MurotalMR/029.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",030. Ar-Rum (Bangsa Roma)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",030. Ar-Rum (Bangsa Roma)
 https://archive.org/download/MurotalMR/030.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",031. Luqman (Luqman)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",031. Luqman (Luqman)
 https://archive.org/download/MurotalMR/031.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",032. As-Sajdah (Sujud)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",032. As-Sajdah (Sujud)
 https://archive.org/download/MurotalMR/032.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",033. Al-Ahzab (Golongan yang Bersekutu)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",033. Al-Ahzab (Golongan yang Bersekutu)
 https://archive.org/download/MurotalMR/033.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",034. Saba' (Kaum Saba')
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",034. Saba' (Kaum Saba')
 https://archive.org/download/MurotalMR/034.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",035. Faatir (Pencipta)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",035. Faatir (Pencipta)
 https://archive.org/download/MurotalMR/035.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",036. Yaasin
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",036. Yaasin
 https://archive.org/download/MurotalMR/036.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",037. As-Saaffat (Yang Teratur Berbaris)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",037. As-Saaffat (Yang Teratur Berbaris)
 https://archive.org/download/MurotalMR/037.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",038. Saad
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",038. Saad
 https://archive.org/download/MurotalMR/038.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",039. Az-Zumar (Rombongan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",039. Az-Zumar (Rombongan)
 https://archive.org/download/MurotalMR/039.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",040. Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",040. Al-Ghafir / Al-Mu'min (Orang yang Beriman)
 https://archive.org/download/MurotalMR/040.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",041. Fussilat (Dijelaskan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",041. Fussilat (Dijelaskan)
 https://archive.org/download/MurotalMR/041.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",042. Asy-Syuraa (Permesyuaratan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",042. Asy-Syuraa (Permesyuaratan)
 https://archive.org/download/MurotalMR/042.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",043. Az-Zukhruf (Perhiasan Emas)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",043. Az-Zukhruf (Perhiasan Emas)
 https://archive.org/download/MurotalMR/043.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",044. Ad-Dukhaan (Kabut / Asap)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",044. Ad-Dukhaan (Kabut / Asap)
 https://archive.org/download/MurotalMR/044.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",045. Al-Jatsiyah (Yang Berlutut)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",045. Al-Jatsiyah (Yang Berlutut)
 https://archive.org/download/MurotalMR/045.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",046. Al-Ahqaaf (Bukit-bukit Pasir)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",046. Al-Ahqaaf (Bukit-bukit Pasir)
 https://archive.org/download/MurotalMR/046.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",047. Muhammad (Nabi Muhammad SAW)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",047. Muhammad (Nabi Muhammad SAW)
 https://archive.org/download/MurotalMR/047.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",048. Al-Fath (Kemenangan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",048. Al-Fath (Kemenangan)
 https://archive.org/download/MurotalMR/048.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",049. Al-Hujurat (Bilik-bilik)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",049. Al-Hujurat (Bilik-bilik)
 https://archive.org/download/MurotalMR/049.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",050. Qaaf
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",050. Qaaf
 https://archive.org/download/MurotalMR/050.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",051. Adz-Dzariyaat (Angin yang Menerbangkan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",051. Adz-Dzariyaat (Angin yang Menerbangkan)
 https://archive.org/download/MurotalMR/051.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",052. At-Tur (Bukit)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",052. At-Tur (Bukit)
 https://archive.org/download/MurotalMR/052.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",053. An-Najm (Bintang)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",053. An-Najm (Bintang)
 https://archive.org/download/MurotalMR/053.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",054. Al-Qamar (Bulan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",054. Al-Qamar (Bulan)
 https://archive.org/download/MurotalMR/054.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",055. Ar-Rahman (Yang Maha Pemurah)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",055. Ar-Rahman (Yang Maha Pemurah)
 https://archive.org/download/MurotalMR/055.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",056. Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",056. Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
 https://archive.org/download/MurotalMR/056.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",057. Al-Hadid (Besi)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",057. Al-Hadid (Besi)
 https://archive.org/download/MurotalMR/057.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",058. Al-Mujadilah (Perempuan yang Merayu)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",058. Al-Mujadilah (Perempuan yang Merayu)
 https://archive.org/download/MurotalMR/058.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",059. Al-Hasyr (Pengusiran)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",059. Al-Hasyr (Pengusiran)
 https://archive.org/download/MurotalMR/059.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",060. Al-Mumtahanah (Perempuan yang Diuji)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",060. Al-Mumtahanah (Perempuan yang Diuji)
 https://archive.org/download/MurotalMR/060.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",061. As-Saf (Barisan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",061. As-Saf (Barisan)
 https://archive.org/download/MurotalMR/061.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",062. Al-Jumu'ah (Hari Jumaat)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",062. Al-Jumu'ah (Hari Jumaat)
 https://archive.org/download/MurotalMR/062.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",063. Al-Munafiquun (Golongan Munafik)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",063. Al-Munafiquun (Golongan Munafik)
 https://archive.org/download/MurotalMR/063.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",064. At-Taghabun (Dinampakkan Kesalahan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",064. At-Taghabun (Dinampakkan Kesalahan)
 https://archive.org/download/MurotalMR/064.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",065. At-Talaq (Cerai / Talak)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",065. At-Talaq (Cerai / Talak)
 https://archive.org/download/MurotalMR/065.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",066. At-Tahrim (Mengharamkan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",066. At-Tahrim (Mengharamkan)
 https://archive.org/download/MurotalMR/066.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",067. Al-Mulk (Kerajaan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",067. Al-Mulk (Kerajaan)
 https://archive.org/download/MurotalMR/067.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",068. Al-Qalam (Pena / Kalam)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",068. Al-Qalam (Pena / Kalam)
 https://archive.org/download/MurotalMR/068.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",069. Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",069. Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
 https://archive.org/download/MurotalMR/069.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",070. Al-Ma'arij (Tempat-tempat Naik)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",070. Al-Ma'arij (Tempat-tempat Naik)
 https://archive.org/download/MurotalMR/070.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",071. Nuh (Nabi Nuh a.s.)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",071. Nuh (Nabi Nuh a.s.)
 https://archive.org/download/MurotalMR/071.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",072. A-Jin (Jin)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",072. A-Jin (Jin)
 https://archive.org/download/MurotalMR/072.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",073. Al-Muzammil (Yang Berselimut)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",073. Al-Muzammil (Yang Berselimut)
 https://archive.org/download/MurotalMR/073.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",074. Al-Muddathir (Yang Berselubung)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",074. Al-Muddathir (Yang Berselubung)
 https://archive.org/download/MurotalMR/074.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",075. Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",075. Al-Qiyaamah (Hari Kebangkitan / Kiamat)
 https://archive.org/download/MurotalMR/075.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",076. Al-Insaan (Manusia)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",076. Al-Insaan (Manusia)
 https://archive.org/download/MurotalMR/076.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",077. Al-Mursalat (Malaikat Yang Diutus)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",077. Al-Mursalat (Malaikat Yang Diutus)
 https://archive.org/download/MurotalMR/077.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",078. An-Naba' (Berita Besar)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",078. An-Naba' (Berita Besar)
 https://archive.org/download/MurotalMR/078.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",079. An-Naazi'aat (Malaikat Yang Mencabut)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",079. An-Naazi'aat (Malaikat Yang Mencabut)
 https://archive.org/download/MurotalMR/079.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",080. 'Abasa (Dia Bermasam Muka)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",080. 'Abasa (Dia Bermasam Muka)
 https://archive.org/download/MurotalMR/080.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",081. At-Takwiir (Menggulung)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",081. At-Takwiir (Menggulung)
 https://archive.org/download/MurotalMR/081.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",082. Al-Infitar (Terpecah & Terbelah)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",082. Al-Infitar (Terpecah & Terbelah)
 https://archive.org/download/MurotalMR/082.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",083. Al-Mutaffifiin (Golongan yang Curang)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",083. Al-Mutaffifiin (Golongan yang Curang)
 https://archive.org/download/MurotalMR/083.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",084. Al-Insyiqaaq (Terbelah)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",084. Al-Insyiqaaq (Terbelah)
 https://archive.org/download/MurotalMR/084.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",085. Al-Buruj (Gugusan Bintang)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",085. Al-Buruj (Gugusan Bintang)
 https://archive.org/download/MurotalMR/085.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",086. At-Taariq (Pengunjung Malam)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",086. At-Taariq (Pengunjung Malam)
 https://archive.org/download/MurotalMR/086.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",087. Al-A'laa (Yang Tertinggi)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",087. Al-A'laa (Yang Tertinggi)
 https://archive.org/download/MurotalMR/087.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",088. Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",088. Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
 https://archive.org/download/MurotalMR/088.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",089. Al-Fajr (Fajar / Sinar Mentari)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",089. Al-Fajr (Fajar / Sinar Mentari)
 https://archive.org/download/MurotalMR/089.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",090. Al-Balad (Negeri)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",090. Al-Balad (Negeri)
 https://archive.org/download/MurotalMR/090.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",091. Asy-Syams (Matahari)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",091. Asy-Syams (Matahari)
 https://archive.org/download/MurotalMR/091.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",092. Al-Lail (Malam)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",092. Al-Lail (Malam)
 https://archive.org/download/MurotalMR/092.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",093. Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",093. Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
 https://archive.org/download/MurotalMR/093.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",094. Al-Insyirah/An-Nasyrah (Melapangkan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",094. Al-Insyirah/An-Nasyrah (Melapangkan)
 https://archive.org/download/MurotalMR/094.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",095. At-Tin (Buah Tin / Buah Ara)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",095. At-Tin (Buah Tin / Buah Ara)
 https://archive.org/download/MurotalMR/095.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",096. Al-'Alaq (Segumpal Darah)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",096. Al-'Alaq (Segumpal Darah)
 https://archive.org/download/MurotalMR/096.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",097. Al-Qadr (Kemuliaan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",097. Al-Qadr (Kemuliaan)
 https://archive.org/download/MurotalMR/097.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",098. Al-Baiyinah (Bukti yang Nyata)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",098. Al-Baiyinah (Bukti yang Nyata)
 https://archive.org/download/MurotalMR/098.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",099. Al-Zalzalah (Kegoncangan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",099. Al-Zalzalah (Kegoncangan)
 https://archive.org/download/MurotalMR/099.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",100. Al-'Aadiyaat (Yang Berlari Kencang)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",100. Al-'Aadiyaat (Yang Berlari Kencang)
 https://archive.org/download/MurotalMR/100.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",101. Al-Qari'ah (Hari Yang Hingar)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",101. Al-Qari'ah (Hari Yang Hingar)
 https://archive.org/download/MurotalMR/101.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",102. At-Takathur (Bermegah-Megah)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",102. At-Takathur (Bermegah-Megah)
 https://archive.org/download/MurotalMR/102.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",103. Al-'Asr (Masa)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",103. Al-'Asr (Masa)
 https://archive.org/download/MurotalMR/103.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",104. Al-Humazah (Pengumpat)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",104. Al-Humazah (Pengumpat)
 https://archive.org/download/MurotalMR/104.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",105. Al-Fiil (Gajah)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",105. Al-Fiil (Gajah)
 https://archive.org/download/MurotalMR/105.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",106. Quraisy (Kaum Quraisy)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",106. Quraisy (Kaum Quraisy)
 https://archive.org/download/MurotalMR/106.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",107. Al-Ma'un (Barangan Berguna)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",107. Al-Ma'un (Barangan Berguna)
 https://archive.org/download/MurotalMR/107.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",108. Al-Kauthar (Sungai Di Syurga)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",108. Al-Kauthar (Sungai Di Syurga)
 https://archive.org/download/MurotalMR/108.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",109. Al-Kafirun (Golongan Kafir)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",109. Al-Kafirun (Golongan Kafir)
 https://archive.org/download/MurotalMR/109.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",110. An-Nasr (Pertolongan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",110. An-Nasr (Pertolongan)
 https://archive.org/download/MurotalMR/110.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",111. Al-Masad / Al-Lahab (Nyalaan Api)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",111. Al-Masad / Al-Lahab (Nyalaan Api)
 https://archive.org/download/MurotalMR/111.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",112. Al-Ikhlas (Tulus Ikhlas / Memurnikan)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",112. Al-Ikhlas (Tulus Ikhlas / Memurnikan)
 https://archive.org/download/MurotalMR/112.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",113. Al-Falaq (Waktu Subuh / Dinihari)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",113. Al-Falaq (Waktu Subuh / Dinihari)
 https://archive.org/download/MurotalMR/113.mp3
-#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Telegram432/10e9c7b49398e1c74e3f52ad6479ebb8a5e11a2d/murotal.webp",114. An-Naas (Manusia)
+#EXTINF:-1 group-title="Murottal" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/murotal.webp",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3
   
 
