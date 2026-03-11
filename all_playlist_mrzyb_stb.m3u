@@ -55,11 +55,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/sctv.webp" group-title="Channel Lokal",SCTV DN
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/refs/heads/main/sctv.webp" group-title="Channel Lokal",SCTV 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/sctv.webp" group-title="Channel Lokal",SCTV 
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/refs/heads/main/sctv.webp" group-title="Channel Lokal",SCTV 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
