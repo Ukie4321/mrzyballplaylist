@@ -213,7 +213,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b3840
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w481242722_b384000_sleng.m3u8
  
-#EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/idx.webp" group-title="Channel Lokal",IDX CHANNEL 
+#EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Idx.webp" group-title="Channel Lokal",IDX CHANNEL 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
