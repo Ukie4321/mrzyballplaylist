@@ -4134,7 +4134,7 @@ https://storage.googleapis.com/d196e82636de45b.appspot.com/d5950d11b8ed3c07be043
 
 
 
-                                         
+            
        ======CHANNEL ANAK====
 
 
@@ -4155,21 +4155,21 @@ https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/Nickelodeon.jpg" group-title="Channel Anak" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/Nickelodeon.jpg", Nickelodeon 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/Nickelodeon.jpg" group-title="Channel Anak" , Nickelodeon 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
-#EXTINF:-1 tvg-id="Nick Jr." tvg-url="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/nickelodeon_junior.jpg" group-title="Channel Anak" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/nickelodeon_junior.jpg", Nickelodeon Junior
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/nickelodeon_junior.jpg" group-title="Channel Anak" , Nickelodeon Junior
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
-#EXTINF:-1 tvg-id="ZooMoo" tvg-url="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/Zoomoo.jpg" group-title="Channel Anak" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/Zoomoo.jpg",ZooMoo
+#EXTINF:-1 tvg-id="ZooMoo" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/Zoomoo.jpg" group-title="Channel Anak" ,ZooMoo
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -4216,7 +4216,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
-#EXTINF:-1 group-title="Channel Anak" tvg-id="Animax" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/Mkidz.jpg",Animax
+#EXTINF:-1 group-title="Channel Anak" tvg-id="Animax" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/Animex.jpg",Animax
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -4226,4 +4226,4 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 #EXTINF:-1 tvg-id="Horee!" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Channel Anak" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/horee.jpg",Horee! 
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
- 
+                                      
