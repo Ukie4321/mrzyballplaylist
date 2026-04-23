@@ -103,7 +103,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Mdtv.webp" group-title="Channel Lokal", MDTV 
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Mdtv.webp" group-title="Channel Lokal", MDTV 
+#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/globaltv.webp" group-title="Channel Lokal", MDTV 
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Rtv.webp" group-title="Channel Lokal", RTV 
@@ -1189,168 +1189,247 @@ https://cloud-oyen.eu.org/1:/Film%20Dubbing%20Indonesia/Mip%20Hasn/X-Men:%20Apoc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwXnsu52wblH4N91dQ1Z6wjFEqW6w_CPTJg1hCB8XLWDqiWq8jgIDXZwb4&s=10" group-title="film dubbing",Sixty minutes (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20dubbing/sixty%20minutes%20(2024).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIyZVh_PpcCDwb0EyTs9BGVcOPLzaB77OIgfN9UtLlHufWKnhFs9K9RzF&s=10" group-title="film dubbing",Badland hunters (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20dubbing/Badland%20hunters%20(2024).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcrHe4kipp3LUFP1GWUKvsvoUy9jeovivUM_O_JEXTXg6B_smVyxtWd6C&s=10" group-title="film dubbing",Beverly hills cop axel f (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20dubbing/Beverly%20hills%20cop%20%20Axel%20f%20%20(2024).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE28W5p5haQMZNvcCP7FLmyHJeZszcxwjT4jPX-4uquTHGrq-wsCRobtaD&s=10" group-title="film dubbing",Spaceman (2024)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/spaceman%20(2024).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9neD0F004fY_nvhPcfGvYkBMM39ORB4eHoOGYJkc4UTZJzC4_URlfqSX4&s=10" group-title="film dubbing",Remember (2022)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/remember%202022.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxziByP_6NjsslNK0i7uiXKYnT-yJO40CcgJo4B5mGIXTrG7S4quY-RiJj&s=10" group-title="film dubbing",Scary movie 4 (2006)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/Scary.Movie.4.2006.INDONESIA.1080p.HTSR.DSNP.WEB-DL.IRIT.AAC2.0.x264-bealive.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqDtX2o3ytbYny4xW9HpEiI2D52SzIhZYzmwIpwN299pSz3bobecrmRCml&s=10" group-title="film dubbing",Ghostbusters 2 (1989)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/Ghostbusters%20II%20(1989)%20Dubbing%20Indonesia.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-4hqUnWIrQ0zG6Vrevd3Lp_g1g8_rNyxlse0Ia1MsGlS9XYKoNN6FtM&s=10" group-title="film dubbing",Bullet train explosion (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/bullet%20train%20explosion%202025.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQABOQCE7QC2q7G8mRGuBlro5w4Z9RR9ntY0pRDSdRM5AZPgMPpGTi-o&s=10" group-title="film dubbing",Thunderbolts (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20dubbing/Thunderbolts%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwdUNGb2bYrnNMFuy_mTdyl7eBo_G81E8pZ_A8JIjyvOVZMrtbLnkdMIO&s=10" group-title="film dubbing",Ong bak (2003)
 https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20new%20kualitas/Ong%20Bak%20(2003)%20.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CCvlR_pvRpyrQRbSgkVWviEtl9XOeYUJaCLorAHHgdo19VZ4jqCwvOI&s=10" group-title="film dubbing",Ong bak 2 (2008)
 https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20new%20kualitas/Ong%20Bak%202%20(2008).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZ5olyobCBbYbIw4iPjNhMG2W0_BQLbqNv3PIkYyB2srGEdaIqtnZTew&s=10" group-title="film dubbing",Ong bak 3 (2010)
 https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20new%20kualitas/Ong%20Bak%203%20(2010).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-4hqUnWIrQ0zG6Vrevd3Lp_g1g8_rNyxlse0Ia1MsGlS9XYKoNN6FtM&s=10" group-title="film dubbing",Ziam (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20lagi/Ziam%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/KungFuHustleHKposter.jpg" group-title="film dubbing",Kung fu hustle (2004)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Kung%20Fu%20Hustle%20(2004)%20.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4pyt8LWR9-Ud9B3-dbhwoK2MwFWMX6AHNcMmCgxeNWwIkjsmIY9g1FNz&s=10" group-title="film dubbing",Jurassic park (1993)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/jurassic%20park%20(1993).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDs_O8Le6Z05Ck-YNFjfCXNJfB_uRP9fEINZc6ac-Ffvexx9HiU_lt_yc&s=10" group-title="film dubbing",Game of death (1978)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/Game%20of%20Death%20(1978)%20Dub%20Indo.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzVKaavp2Gmj7FcSNXJFiKtEn2M8JJK0mV7_I4wWQ7uXZNAHBwNuYIA0s&s=10" group-title="film dubbing",Jurassic park 3 (2021)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/jurassic%20park%203%20(2021).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0r_UmYPQcC4wF5o8ukMsqGGP01QaJCsLyUW42Mp9pU0gocrxFNckdAjYT&s=10" group-title="film dubbing",Jurassic park dominion (2022)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/jurassic%20park%20dominion%20(2022).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4P4OfpRv_R79_Yc3iZkJ819Q3bf89-oPZV14qmpb1SdXMO9UoH6TeLow&s=10" group-title="film dubbing",Dreadnaught  (1981)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/Dreadnaught%20(1981)%20Remastered%20Dub%20Indo.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5V65ScuA2n-RtrputD0Q6uUaOxipx-YVUHmm9xHk9otonnJtYaTLwL9q&s=10" group-title="film dubbing",Jurassic world (2015)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/Jurassic%20World%20(2015)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-8ZzEE2jxoZkg3boeUzuy4t-ATANHJjX_b6VYFWtgKtBA-IwCRiZc3g8&s=10" group-title="film dubbing",127 hours (2010)
-https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20lagi/127%20hours%20(2010).mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d2/Prestige_poster.jpg" group-title="film dubbing",the prestige (2006)
 https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20lagi/The%20prestige%20(2006).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvyk8JqtjnqAuunzmlFyrQRWca9cNVRu6LTy9PC9NSehVQp0XJD1dati_&s=10" group-title="film dubbing",Marry me (2022)
 https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20lagi/Marry%20me%20(2022).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi86kjemtqS7_erpv-T5x6s0gRdD2xg_GfXR0ChVsEZikL3ncUgtTNNAg&s=10" group-title="film dubbing",Warm bodies (2013)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/warm%20bodies.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThC82RM47U79XRyOLP1UpBbZErZy_b_kp2xtpRmeVyStdEdYcQBz-qWAun&s=10" group-title="film dubbing",Flubber (1997)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20dubbing/Flubber%20(1997).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ojHvK0jJpcfihs6kxVj--10MUkLgmxlRPKp0jMm6M8gkiMySXGicikM&s=10" group-title="film dubbing",Captain america brave new world (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/captain%20america%20brave%20new%20world%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxpVYeQVEhlhun69B3cgavN_gZJLEp1OPl49GUKPBN4XAheIZV3SdY5Mq4&s=10" group-title="film dubbing",Shaolin soccer (2001)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/shaolin%20soccer%20(2001).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-5Ed5QTWuOK1J0jOkwPuZRdYoEAeMVbNgm4vJwesBvMdPyyhQOWxF4qB&s=10" group-title="film dubbing",Ben 10 alien swarm (2009)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20dubbing/Ben%2010%20alien%20swarm%20(2009).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScQEsdVe3Z88DwItIjP5XrHFiCN-sH_08aUdvRxDTbcfojum55IoqBoWE&s=10" group-title="film dubbing",Mufasa (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/Mufasa%20(2024).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rqnPUN0510OaSjbej6u2RiWzFXLY5T78891wXKT9rKEjoUWup7BFGas&s=10" group-title="film dubbing",The antisocial network (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/the%20antisocial%20network%20memes%20to%20mayhem.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVowM62ecIf1tnzvmGfz9-VUYwQVYOnklCQQGoIUpt0pL6FHIzSQ0a3fg&s=10" group-title="film dubbing",Candy cane lane (2023)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/candy%20cane%20lane%20(2023).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2L3ALKHOhHbd-UcJEHL7tp4AExtruN1KU-sSiD8wnviQEB-G7X2ngjjk&s=10" group-title="film dubbing",Evil dead rise (2023)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/evil%20dead%20rise%20(2023).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_6rtNp9K2pWviPb31S7HQ3rwmO-OkvNAnxPuskcNuHfKIN2BblLLEcquX&s=10" group-title="film dubbing",Chori-chori chupke (2001)
 https://movieku.ukielaki8387.workers.dev/0:/India%20dubbing/chori-chori%20chupke-chupke%20(2001).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbW7pOgGFNkPTmALl_wAVoRxrIWK-OsB8nD6P5mVIcJ13csVbk_zwonI&s=10" group-title="film dubbing",Don (2006)
 https://movieku.ukielaki8387.workers.dev/0:/India%20dubbing/Don%20(2006).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Don_2_poster.jpg" group-title="film dubbing",Don 2 (2011)
 https://movieku.ukielaki8387.workers.dev/0:/India%20dubbing/Don%202%20(2011).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIC5YSoSz1e_4iliHE_pnx6P_VCbSyutDWr_qOlwfUBla82yaUyPhOJCjc&s=10" group-title="film dubbing",Josh (2000)
 https://movieku.ukielaki8387.workers.dev/0:/India%20dubbing/josh%20(2000).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgCYd7NqgBryJE3v_bBrkc-OI083A8NfSGrdPKvJctEsIM-aQpp6YUH18&s=10" group-title="film dubbing",shakti the power (2002)
 https://movieku.ukielaki8387.workers.dev/0:/India%20dubbing/shakti%20the%20power%20(2002).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYogksC46TJPWG2j2GJ9HlJlBHrYyD3p5M9nv8rNU8CFx9dSqJemgswPpu&s=10" group-title="film dubbing",Thirteen lives (2022)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/thirteen%20lives%20(2022).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBBU9fpuhb96heQS3a9X_8QSQ3o3z9Muw4Rgf_HrGSeLptaB5XgBD62ng&s=10" group-title="film dubbing",Tricky brain (1991)
 https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20lagi/Tricky%20Brain%20(1991).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rPVitvcI-lhFSQkWxpsVEuedRaDBE-kLxL1TRR2N91nuXii7g2A_f1bu&s=10" group-title="film dubbing",Pushpa (2024)
 https://movieku.ukielaki8387.workers.dev/0:/India%20dubbing/pushpa%202%202024.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-48gpb076Hghc7-G7y9upqlM04kn6CGqjSA&usqp=CAU" group-title="film dubbing",Chronicle (2012)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/chronicle%20(2012).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HIsob9jLmNcpV4PS2rj2IyX258jpYjmxG3diE-J9CQKTufxS3Y-r33za&s=10" group-title="film dubbing",Squid game (season 2) full episode (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/squid%20game%20season%202%20full%20episode.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkTXEcOt-oKYmv3cqDBM7lSfac_cmdZrtuPC7qCUy_wS3xQkcg7zCpfnA0&s=10" group-title="film dubbing",Bogota city of the lost (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/bogota%20city%20of%20the%20lost%202025.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9uZ51ZL2u87GtuCF_-lTRx_qu3eGolvqafYo4YfONnrlvxhMoVrENHO0&s=10" group-title="film dubbing",The mad mong (1993)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/The%20mad%20mong%20(1993).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwdBGnG2M8QuTvk7KdbiJJe1If5IsGRmfwsLZYoawGiERfKWbXHnTy7HM&s=10" group-title="film dubbing",The electric state (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/The%20electric%20state%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS7FCu4A0E5FfgUz8Gfsp_ShsEhG3KYDoWHlVMuVUqn3VpMUHLRoYi4ck&s=10" group-title="film dubbing",Demon city (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/Demon%20city%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXxrEXIjrPDzPPqYoVnZgnraKrub_aP4B8q2CWPkbYaSbWP-D7HY_crLc&s=10" group-title="film dubbing",Vanguard ji xian feng (2020)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/Vanguard%20ji%20xian%20feng%20(2020).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7RVs0rSZjQpkHvBAoTSEBCuSU4aT3_jU0w&usqp=CAU" group-title="film dubbing",Air force one (1997)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/Air%20force%20one%20(1997).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5BZSuQVNAQ23VAaYvLM7UJjCAiYldt8KlBIidjUnF62yKxrSJiBplkc&s=10" group-title="film dubbing",Maleficent mistress of evil (2019)
 https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20new%20kualitas/Maleficent%20(2019).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcDfT2erYX9xrr3QSuqXvrGulOWRmWFrFLu2iDMj3iVY-BEXV7pxOeOrc&s=10" group-title="film dubbing",Maleficent (2014)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/maleficent%20(2014).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHckemw75YXkXmRRPxGgCOumLm2C3Mv5yVgsF4yhrNmqpeBCcaZ58ukN8k&s=10" group-title="film dubbing",The amazing spiderman (2014)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/The%20Amazing%20Spider-Man%202%20(2014).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnbc3bqq1C7dMqRNKS8tSojsBrFGd2_GOiw_P5r2rzp8yQVX2n8pJqYry_&s=10" group-title="film dubbing",102 Dalmatians (2000)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/102%20dalmatians.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYj3KrqlT3Md1D-QLjPo_AktU6HuPmKFsvKMALxkyCt3jckZZ1k_APnGg&s=10" group-title="film dubbing",A widows game (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/A%20widows%20game%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgNDxy4D-7ZbHxNRZJ9JqBbyuwDxXjAeFuz9C1XiSP5I2CKLk0wS-XnZs&s=10" group-title="film dubbing",The heart knows (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movies%20dubbing/The%20heart%20knows%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWkFjVZ0AJOAtMSA_KnOBi5fCc9We5q3L7awzyRuSebqa89eg2-e2mggD&s=10" group-title="film dubbing",Diary of a wimply kid the long haul (2017)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Diary.of.a.Wimpy.Kid.The.Long.Haul.2017.1080p.HS.WEB-DL.AAC2.0.EN-ID.H.264-SEIKEL.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZUP3TG_5T_R4HxNgPKL6wY2oFzP16nBwh3RPfG0F-jeLtFfEDqj5LjiI&s=10" group-title="film dubbing",Heart of the hunter (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Heart.of.the.Hunter.2024.WEB-DL.Dub.Indo.1080p.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWMyYmFhMzMtYjMwYS00Zjg0LWE0NmYtNzZmZWQ5MjkwZTJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="film dubbing",Incoming (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Incoming.2024.WEB-DL.Dub.Indo.1080p.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlVA_wks70sX0O9RoRm4ahuX3oFMJqsdQq9g&usqp=CAU" group-title="film dubbing",Kabhi kushi kabhie gham (2001)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/kabhi%20kushi%20kabhie%20gham%202001.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUNn-x4VsN1FObwb7inmNAG5d4npeyIEoN37r_KjrMKkRYMZlU8_aj0g&s=10" group-title="film dubbing",Uprising (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/upris%202024.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMTlIRMxoHdku1sW8IS9T0Z2_8N8M3NjrxOnABsaNinAIG7lhdXiS4_jxM&s=10" group-title="film dubbing",Hallowen ends (2022)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Halloween%20ends%202022.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY5ZjE0YmEtOWI2YS00OGFjLWI5ZjQtNmIzMmYyZjhiMjVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="film dubbing",Joy the birth of ivf (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/joy%20the%20birth%20of%20ivf%202024.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqwX-To5v-4wzjyDAanPYC2SyNqFx8ilKznqQGg-jFJ8-8aN2Q5BgnLg&s=10" group-title="film dubbing",The piano lesson (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/the%20piano%20lesson%202024.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFlMTMyMzQtNmI4NC00YTcyLTgwOGUtMzc4YjcyNDUyOGY3XkEyXkFqcGc@._V1_.jpg" group-title="film dubbing",dont move (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/don't%20move.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYo_5yJKJ7zYKsaU7VFBAc6x4DXZex0GM1g&usqp=CAU" group-title="film dubbing",Megan (2022)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/megan.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1M_OjU_i5iRDIbSmMZ2fNhHcTQl-WbvsZs0_nxXK4baxspCYfkp6LZp8&s=10" group-title="film dubbing",Time cut (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/time%20cut.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K210p1wRU2yle5hag99_gjgl_UAWpI6RyiLsw-ql1zmMWdyETOglZfA&s=10" group-title="film dubbing",How to make millions before grandma dies (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/how%20to%20make%20millions%20before%20grandma%20dies%20(2024).mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS1Wj30m6QiXCmib50QzcXPuD-_oAUp_Fh2-1oYeTC7wp-OOc2zOBVEftZ&s=10" group-title="film dubbing",Kong skull island (2017)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/kong%20skull%20island%20(2017).mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxowXZTET2rGQIezGS33ce0UnYsLn9faTXQ&usqp=CAU" group-title="film dubbing",Godzilla vs kong (2021)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/godzilla%20vs%20kong%20(2021).mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTbSM4VZEsUHfXWotC84SlCcDerEtjkEHhminwrBe3Up99sY2IuIlq4Tlx&s=10" group-title="film dubbing",Godzilla (2014)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/godzilla%202014.mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBmMzI4ZDQtYTU1MS00ZDE4LWI1MzAtM2ExZjQwMGY3Nzk5XkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_.jpg" group-title="film dubbing",Godzilla king of monsters (2019)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/godzilla%20king%20of%20monsters%202019.mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHvwSr_VDXb7nkZ_eQAp_jo39ngn43uHmPgp8b205CvRn6y19nIGWAvmb&s=10" group-title="film dubbing",Godzilla minus one (2023)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Godzilla%20Minus%20One%20(2023)%20Dubbing%20Indonesia.mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAIgKY_0F2SYrXFYNq1l1SVmZc2v2R5SW6a6P5PFY0Jd3j2D6U6JXNqxWB&s=10" group-title="film dubbing",Alien (1975)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/alien%20(1975).mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpplq_LUgxrvO95t6ykSG60dH53aQaXKhHzYliX1llluVEFLyWCvpqAc&s=10" group-title="film dubbing",Aliens (1986)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/aliens%20(1986).mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZJxoQfXIZzlqTB3WjsRLKU4ZT8sWKaoYP1x7_QvVCIWB0Nq9p-F7EhPxG&s=10" group-title="film dubbing",Alien (1992)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/alien%203%20(1992).mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqzzH3haRxA3ha2BpR762JHd-2wJGdIGJZi_FEOAElruYxhPm2qhcbByo&s=10" group-title="film dubbing",Alien resurrection (1997)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/alien%20resurrection%20(1997).mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdOfL9-D93yD8z1CpA0tyqj9DdZsiHuWTKTg&usqp=CAU" group-title="film dubbing",Alien covenant (2017)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/alien%20covenant%20(2017).mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG5e06sgmSuO9mRBcLk5Ms16reisuhPPNW-w&usqp=CAU" group-title="film dubbing",Predator (1990)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/Predator%202%20(1990)%20WEB-DL%20[Dubbing%20Indonesia]%20[1080p].mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToF6q9brPICZmfy1Poq3PyhJSYL86owiJ8ZsZnP0QI_A6gf9M0OSngZ4w&s=10" group-title="film dubbing",Alien vs predator (2004)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/Alien.Vs.Predator.(2004).1080p.Hotstar.Web-DL.x264.Indo.Dub.mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgq6irDg1pExwxeGQ9vyrbnoaT3DABMVeXt2gPnnFn2JYRwGzxGkWW1Vc&s=10" group-title="film dubbing",Aliens vs predator requim (2007)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/Aliens_vs_Predator_Requiem_2007_1080p_Hotstar_Web_DL_x264_Indo_Dub.mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb4InHfEddUbOahYFxCoSQVi5FNcQ9UN7B_w&usqp=CAU" group-title="film dubbing",Predators (2010)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/Predators%20(2010)%20WEB-DL%20[Dubbing%20Indonesia]%20[1080p].mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3-g78lL4YOmzywXMuUuR2Jgbfy0464JpaMQBd-dugKv4AS6G1vptURlo&s=10" group-title="film dubbing",The predator (2018)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/The%20Predator%20(2018)%20WEB-DL%20[Dubbing%20Indonesia]%20[1080p].mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj1bOQGfojlBUP1UNBqjOcdHBN_1HCsL1_i3afbwjEvw_9TiayZHOniuqN&s=10" group-title="film dubbing",Mission cross (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/mission%20cross%20(2024).mp4.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZMG1Wuu9pYoDQ8Vdipk7Cm0vV3kHES6LVf3K4KHb2BDmHBB4v0WfUZko&s=10" group-title="film dubbing",City hunter (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/city%20hunter%20(2024).mp4.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJjNWE4NDMtMzQwMC00NjlhLTg1NjItMTQyMzY3NzdkZDIzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="film dubbing",Atlas (2024)
@@ -1385,14 +1464,9 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/asoka.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWASdFCfPIPNXDaaIoSe-kJvaqmwOuF5f7WBWIdvbCHqkNwQPHLwKjLDU&s=10" group-title="film dubbing",Fantastic four (2005)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/fantastic%20four%20(2005).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrovHtpdNobGzmXPQKlOohDDTO9JP2iEpTM4qQu_6AULMf1KovIQVokv4s&s=10" group-title="film dubbing",Fantastic four rise of the silver surfer (2007)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/fantastic%20four%20rise%20of%20the%20silver%20surfer%20(2007).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRI7f4NO3jdHGWE2z-zP9kZNFGfpDfcf4tD2eGfKgWOsRL1v0yeduabrZN&s=10" group-title="film dubbing",Fantastic four (2015)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Fantastic.Four.2015.1080p.HS.Web-DL.x264.Indo.Dub-GDriveDubbing.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IjpjKCgSJQZTdtuVPsHK3tgJeldpOiMAfjJv4gHaiYeGFt0Vt1vNnAI&s=10" group-title="film dubbing",Journey (2008)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/journey%202008.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFpO7XyZord5szcPV-HKBLfyOOzvCnRmms9jzqPTXq_pMlDpP7ZVpjqE&s=10" group-title="film dubbing",Journey (2012)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/journey%202012.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Gullivers_travels_2010_poster.jpg/220px-Gullivers_travels_2010_poster.jpg" group-title="film dubbing",Gullivers travels (2010)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Gullivers.Travels.2010.BD.1080p.Dubbing.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTusmtbkekouqNHxIydnSRJlyowCIem9h7FdVudyj7KHFgtmDLU86Sq7WKg&s=10" group-title="film dubbing",The main event (2020)
@@ -1433,8 +1507,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/mr.vampire%203%20(1987).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCj8YJb2WgpQdYQ-V3bu_GDaQKjyPVZgsIJsxBI3qaoR9RYvKJzcpuC4&s=10" group-title="film dubbing",Mr vampire (1988)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/mr.vampir%204%20(1988).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b4/Jack_the_Giant_Slayer_poster.jpg" group-title="film dubbing",Jack the giant slayer (2013)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/jack%20the%20giant%20slayer%20(2013).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Rush_Hour_poster.png" group-title="film dubbing",Rush hour (1998)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/rush%20hour%20(1998).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwjhYnQ5mUtcB11oVpiPkdetUTYimL5mU4vuT8bgcyQREgPDwrvx7jP2k&s=10" group-title="film dubbing",Rush hour 2 (2001)
@@ -1449,8 +1522,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/woody%20woodpecker%20goes%20to%20camp%20(2024).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn91YBOW3_IqYzaES1J_iUbo1RiwyUIJxhIu38tjqAK7fEzjyb6b_njVPC&s=10" group-title="film dubbing",The last airbender (2010)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/tha%20last%20airbender%20(2010).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_DuM2_KQbVolONWEnmgHonoqZ-eggFr5hJd0UDfOK3pkkaCmUvmM4Com&s=10" group-title="film dubbing",Dracula untold (2014)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/dracula%20untold%20(2014).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Secret_Headquarters_poster.jpg" group-title="film dubbing",Secret headquarters (2022)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Secret.Headquarters.2022.HBO.1080p.Dubbing.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dc/Pee_Mak_International_Poster.jpg" group-title="film dubbing",Pee maak (2013)
@@ -1473,12 +1545,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indo%20lagi/Monster%20(2023).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk1NGM4YmMtNGI4NC00YWQ2LWJlZjYtMzFiMjgxMDJhZTczXkEyXkFqcGdeQXVyNjc4Mjc1NDE@._V1_.jpg" group-title="film dubbing",Condors nest (2023)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Condors%20nest%20(2023).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgdOGJSDiUKbtAtRQHOubZfW_UP6mAhuyZEOkgqKrcy4UyA7IGYU3vrg&s=10" group-title="film dubbing",Back to future (1985)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/back%20to%20the%20future%20(1985).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHwSKrtqR8qgwunS6DHtvE_Ogwz0IZEcrkbHj0fg1q8GqCQ7mUJ-3A7PHS&s=10" group-title="film dubbing",Back to future (1989)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/back%20to%20the%20future%20(1989).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4e/Back_to_the_Future_Part_III.jpg" group-title="film dubbing",Back to future (1990)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/back%20to%20the%20future%20(1990).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwEuTgkrCHAL4Gs-GtMRKOpxO2cWcoXMJC6PfwQW0Whfv4-PpGSaZ9K9c&s=10" group-title="film dubbing",Inspector gadget (1999)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/inspector%20gadget%20(1999).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Inspectorgadget2-1-.jpg" group-title="film dubbing",Inspector gadget 2 (2003)
@@ -1491,14 +1558,11 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/The%20Fast%20And%20Furious%20Tokyo%20Drift%20(2016)%20WEBDL%20HD%20Remastered%20Dubbing%20Indonesia.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg/220px-The_Fate_of_The_Furious_Theatrical_Poster.jpg" group-title="film dubbing",The fate of the furious (2017)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/The%20Fate%20of%20the%20Furious%20(2017)%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vOiEQU2r2nSs3H85bLrbCJYOJezkzR4qXgygHzeUibFbDtxmWFS56dTS&s=10" group-title="film dubbing",F9 the fast saga (2021)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/F9%20The%20Fast%20Saga%20(2021)%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/FastandFurious6-teaserposter.jpg" group-title="film dubbing",Fast furious 6 (2013)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Fast%20&%20furious%206.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAA8Ho3snq70MIdgaW9cemX4hrhpGokrcy2mkIGBRQzs_Nk51DmA9TBFo&s=10" group-title="film dubbing",Fast and furious 7 (2015)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Download%20Fast_&_Furious_7_Dub_Indo.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0i9YDICXIRWETQ0zyymooRShIFmbESKMVEL7yBElIkJvNJ6tSs-eOXvw&s=10" group-title="film dubbing",Fast and furiuos present hobbs and shaw (2019)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Fast_&_Furious_Presents_Hobbs_&_Shaw_2019.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0e/Pirates_of_the_Caribbean_movie.jpg" group-title="film dubbing",Pirates of the caribbean the curse of the black pearl (2003)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Pirates%20of%20the%20Caribbean%20The%20Curse%20of%20the%20Black%20Pearl%20(2003)%20720p%20dub%20indo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_.jpg" group-title="film dubbing",Pirates of the caribbean dead man chest (2006)
@@ -1513,8 +1577,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Pirates%20of%20the%20C
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/joy%20(2015).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ818cJ-Pw3ciM14rJ7TbJrYXIPzSXLCWYFE6Yozrcol3GJe6gf_k5uJsy7&s=10" group-title="film dubbing",Full metal alchemist the final alchemy (2022)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/fullmetal%20alchemist%20the%20final%20alchemy%20(2022).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxsVwNSM_3mzefjaQHX62DhhOlAbolxiQG0ZuZpWvzbwCY3WT3VM6kXaM&s=10" group-title="film dubbing",Fullmetal alchemist the revenge of scar (2022)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Fullmetal%20Alchemist%20The%20Revenge%20Of%20Scar%20(2022)%20Dub%20Indo%20Hd.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXv7rZ67CTA9iRdRkCH_JxONTbjPukg1jzlg&usqp=CAU" group-title="film dubbing",High risk aka meltdown (1995)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/high%20risk%20AKA%20meltdown%20(1995).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Mu5bj7F6z5NsxV1Ftpl6y9JM7tBOAxC4VM3mIr2patHk7H8XbjIe38I&s=10" group-title="film dubbing",Krrish (2006)
@@ -1541,8 +1604,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/sadako%203d%20(2012).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8sck3cdx56D_IIUe-XtQh2IUni_YdgbBopdb8neB5X-0EAITbWWbnBgIN&s=10" group-title="film dubbing",The promise (2017)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/the%20promise%20(2017).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Inferno_%282016_film%29.png" group-title="film dubbing",Inferno (2016)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/inferno%20(2016).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0PxplqJ_ZtExeGQtAeEO3Xg1iXIhDG6t5lA&usqp=CAU" group-title="film dubbing",Kawakami tomie (2002)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/kawakami%20tomie%20(2002).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP3V3atmEIJ7EXt0ZP32liRvobA5FKLNk4ydf5RLXI2BPgrz19qnOoy3c&s=10" group-title="film dubbing",Sonic the hedgehog (2022)
@@ -1617,10 +1679,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/night%20at%20the%20museum%
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/independence%20day%201996.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/Independence-Day-2-poster.jpg" group-title="film dubbing",Independence day resuregence (2016)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/independence%20day%20resuregence%202016.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCETewfnVN7VpYschZxh3VLyvDNTpiU-Dt2s1iOMMl6QiMUYQgftI23aY&s=10" group-title="film dubbing",Guardians of the galaxy (2014)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/Guardians%20of%20the%20Galaxy%20(2014)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1jHGPx9kex0i5WQTg3BrrewTWU9Cfdta5yOVI9hFR_VYiALc-tBy-D5b&s=10" group-title="film dubbing",Guardians of the galaxy volume 2 (2017)
-https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20new%20kualitas/Guardians%20of%20the%20galaxy%20vol.2%20(2017).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/The_Guardians_of_the_Galaxy_Holiday_Special_poster.jpg" group-title="film dubbing",The guardians of the galaxy holiday special (2022)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/The%20Guardians%20of%20the%20Galaxy%20Holiday%20Special%20(2022)%20WEB-DL%20[Dubbing%20Indonesia].mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dHTw1wETVaKm-_a-EfXnWXgVLO-lc9QZVg&usqp=CAU" group-title="film dubbing",Ted (2012)
@@ -1629,10 +1688,8 @@ https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20new%20kualitas/Ted%20(2012
 https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20new%20kualitas/Ted%202%20(2015)%20Remastered%20Dub%20Indo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEMltvYJvKsdV_Sr1A3x4MI5U5w7u_k3b3OQ&usqp=CAU" group-title="film dubbing",Jurassic world (2018)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/jurassic%20world.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqWokSKb7VFEGLkDWph3Mnh5hCcG8Sfyvdw&usqp=CAU" group-title="film dubbing",Constantine (2005)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/Constantine.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Annabelle_film_poster.jpg" group-title="film dubbing",Annabelle (2014)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Annabelle.2014.BluRay.720p.x264.INDO.DUB.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6-UAG0rE2ugUgfIndZaQvJhzZvkRjbTiZQ&usqp=CAU" group-title="film dubbing",Annabelle creation (2017)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Annabelle%202%20Creation%20(2017)%20Dubbing%20Indo%20-%20MCFAY.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdEK-RsuwIESyTP9hVkC5TbpRkxm5eMTqS449TRp6HKgiMeEEn-JqMXR2U&s=10" group-title="film dubbing",Annabelle comes home (2019)
@@ -1663,8 +1720,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/Die%20Hard%202%20(1990)%20
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/Die%20Hard%20with%20a%20Vengeance%20(1995)%20WEB-DL%20[Dubbing%20Indonesia]%20[1080p].mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQJ-bs5sdoSbMFHtUvTuD4gss1OunRUByDz1nJYmiojbhcY0GEPlOWo9w&s=10" group-title="film dubbing",A good day to die hard (2013)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/a%20good%20day%20to%20die%20hard.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4F_KuO-mSW8pzPaaVqtGSg-DZhux8q72GPg&usqp=CAU" group-title="film dubbing",Hallowen kills (2021)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Halloween%20Kills%20(2021)%20Dubbing%20Indonesia%20ukielaki.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7JDi6-wddKD4bgm7NGO_ugmHiBZXQ5PT4dDdSaJ4ZSqBYxTE2lRvfpw&s=10" group-title="film dubbing",The chronicles of narnia prince caspian (2008)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/the%20chronicles%20of%20narnia%20prince%20caspian%202008.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTnnxqBsHDzsYX072f7kzKQnLPtGOrev2B1DQsb9wDOBO2FYzI93yqhxQ&s=10" group-title="film dubbing",The chronicles of narnia the lion the witch and the wardrobe (2005)
@@ -1673,18 +1729,14 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/the%20chronicles%20of%20na
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/X-Men%20Origins_%20Wolverine%20(2009)%20[Dub%20Indo].mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyGo1DvkzEx-oVDONJHfddct0LZFu_k70z7Q&usqp=CAU" group-title="film dubbing",Logan (2017)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Logan%20(2017)%20Dubbing%20Indo%20ukielaki.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsPxB1uuMJT5YDpi8ITeVUbMEnc8Sb6eaddg&usqp=CAU" group-title="film dubbing",Green lantern (2011)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Green%20Lantern%20[2011]%20Remastered%20HD%20-%20Dubbing%20Indonesia%20ukielaki.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxwTB19gfszyx5-1RGzc7U9yesoiQ12WZYRg&usqp=CAU" group-title="film dubbing",Black window (2021)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Black%20Widow%20(2021)%20Dubbing%20Indonesia%20ukielaki.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/DoraLostCityOfGoldTeaserPoster.jpeg" group-title="film dubbing",Dora and the lost city gold (2019)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Dora%20and%20the%20Lost%20City%20Gold.2019.1080p%20Dubbing.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/CJ7.jpg" group-title="film dubbing",Cj7 (2008)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/CJ7.(2008).720p.RCTI.x264.Indo.Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1-fja5zHle5e-C0WlPa4gqaIPCC7_sHVbQA&usqp=CAU" group-title="film dubbing",Blade (1998)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Blade%20(1998)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgNb7SrouR9NqmFKQgeW-vjb3Y7-Z9i2lXBA&usqp=CAU" group-title="film dubbing",Blade 2 (2002)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Blade%20II%20(2002)%20[Dub%20Indo].mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWgkc1zzT4bSZe7jhRIrVOqSnvKNZ1_kGsXjym5kYqKwaauE418rRBDVk&s=10" group-title="film dubbing",Blade trinity (2004)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Blade_%20Trinity%20(2004)%20[Dubbing%20Indonesia].mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm44STjI5OL1nmXhB3X8-bJlZ6j9qX0kzLGMnyHt8uzlcQUIQJOVwnPnU&s=10" group-title="film dubbing",Axl (2018)
@@ -1717,20 +1769,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Deadpool%20(2016)%2010
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Deadpool.2.(2018).1080p.Webrip.x264.Indo.Dub.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK1veWn-Va0_MGvswIAG3nb-dWDYyN52O5Ww&usqp=CAU" group-title="film dubbing",Hary potter and the sorcerers stone (2001)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Harry%20Potter%20and%20the%20Sorcerers%20Stone%20(2001)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOma5dXRTW8ar5G-v4xL3QGZJqBP2cIoyLQ&usqp=CAU" group-title="film dubbing",Harry potter and the chamber of secrets (2002)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20(2002)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLscuZwb3d6QQnSQOmPmwAUphDR0rvUSMgHQ&usqp=CAU" group-title="film dubbing",Hary potter and the prisoner of azkaban (2004)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20(2004)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-HVLvNqekS9xhesB5ZChZ8qkPMml3r4_aw&usqp=CAU" group-title="film dubbing",Harry potter and the goblet of fire (2005)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20(2005)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqUYKpKu3LLBzXhasX-LdhIGvFBV34QR7HcQ&usqp=CAU" group-title="film dubbing",Harry potter and the order of the phoenix (2007)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20(2007)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIKsleqH1JKF5TOOGDEngGf6TLThfhe_6gyQ&usqp=CAU" group-title="film dubbing",Harry potter and the half blood prince (2009)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Harry%20Potter%20and%20the%20Half%20Blood%20Prince%20(2009)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsIXNSo586naPWFuu2e-bKvXIpdA9BRf3WQ&usqp=CAU" group-title="film dubbing",Hary potter and the deathly hallows part 1 (2010)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Harry%20Potter%20and%20the%20Deathly%20Hallows_%20Part%201%20(2010)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpgcoGN2TcD2i63QE_7hIt7o2Yfh___P5bfA&usqp=CAU" group-title="film dubbing",Harry potter and the deathly hallows part 2 (2011)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Harry%20Potter%20and%20the%20Deathly%20Hallows_%20Part%202%20(2011)%20[Dub%20Indo].mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hPApBmIPXVSDaP-IJaF3cLhzsci424R8yg&usqp=CAU" group-title="film dubbing",The matrix (1999)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/The%20Matrix%20(1999)%20Indo%20Dub.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOT79Wp6B6rVeIyoLRIiHW742uv_c6s4F_w&usqp=CAU" group-title="film dubbing",The matrix (2003)
@@ -1751,8 +1790,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/shanghai%20knight%20(2004).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwH1ou8dDNxD7hNaFECL3GmMJCi_T8cJ7h5aOT0vU04LmhZEV0bDadArc&s=10" group-title="film dubbing",Bruce almighty (2003)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/bruce%20almighty%20(2003).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51nDWQ6nH3L._AC_UF894,1000_QL80_.jpg" group-title="film dubbing",Evan almighty (2007)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/evan%20almighty%20(2007).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4xSn3nHKc9G1TD4I_AW9iI-hWBWdUyxNCA&s" group-title="film dubbing",Chappie (2015)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/chappie%20(2015).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdbzljKdFzwghR3NIAPIE-I95Xcn4iuTNsQ&s" group-title="film dubbing",Pixels (2015)
@@ -1785,10 +1823,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/upside%20down%20magic%20(2020).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsAEACcIsq8HhvpiLpsXTykofe35nbZzSzQw&usqp=CAU" group-title="film dubbing",Rambo last blood (2019)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Rambo_%20Last%20Blood%20(2019)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4S3BJlMX6VkmT5XXdSiAM7tGQl0SgCQw7uQ&usqp=CAU" group-title="film dubbing",Hellboy (2004)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Hellboy%20(2004)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB1hASMBQzb8Mj2068VcZwfLLFt5m3WATCaw&usqp=CAU" group-title="film dubbing",Hellboy 2 the golden army (2008)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Hellboy%20II_%20The%20Golden%20Army%20(2008)%20[Dub%20Indo].mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQBLCGgFHmHI4d7ohyJCjw_7dekyW1Sxw0hw&usqp=CAU" group-title="film dubbing",Taken (2012)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Taken%202%20(2012)%20%20[Dub%20Indo].mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIItcWj5tXqi6mcbQ_9tBQfTcvAtQpsHvKA&usqp=CAU" group-title="film dubbing",Taken (2014)
@@ -1797,14 +1832,9 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Justice%20League%20(2017)%20[Dubbing%20Indonesia].mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwr9SgrmULJSqRKib-AbYAGg9EYvruaFvBrg&usqp=CAU" group-title="film dubbing",Avengers (2012)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/The%20Avengers%20(2012)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-TYEc0LZxyMfzbHDDcMaSdaR8wVmUGRlCg&usqp=CAU" group-title="film dubbing",Avengers age of ultron (2015)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Avengers_%20Age%20of%20Ultron%20(2015)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxz0LhSKqHU-R65d87S4NodRCManWOpJUTSw&usqp=CAU" group-title="film dubbing",Avengers infinity war (2018)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Avengers_%20Infinity%20War%20(2018)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwBNj3MfebRphRtBQeT2Lrp8OEcIGK9vFnw&usqp=CAU" group-title="film dubbing",Avengers end game (2019)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Avengers_%20Endgame%20(2019)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKnjThcA_frumenU-pwlN0GqKIYw8w-4x2A&usqp=CAU" group-title="film dubbing",Batman vs superman (2016)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/batman%20vs%20superman%20dawn%20of%20justice%202016.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9QtLEP2hOlIl0cEapre_CO5zPOGHeR3WXqYYwS-14eN2amljMrCaAODA&s=10" group-title="film dubbing",Superman returns (2006)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Superman.Returns.(2006).1080p.Webrip.x264.Indo.Dub.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ65_RPZcFpAtWk9AbyhJW9sl8necqHM9zn-UGlKhhFS05zDKxuFjsgUmjB&s=10" group-title="film dubbing",Batman The dark knight (2008)
@@ -1813,8 +1843,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Man%20of%20Steel%20(2013)%20Indo%20Dub.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/esensi/2023/09/the-dark-knight-rises.jpg" group-title="film dubbing",Batman The dark knight rises (2012)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/the%20dark%20knigh%20rises%202012.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVsbA0PQAI38n0RUN8BFIzbgluB7M5aEHyYQ&usqp=CAU" group-title="film dubbing",Batman begins (2005)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/batman%20begins%202005.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/Spider-Man_%282002_film%29_poster.jpg" group-title="film dubbing",Spiderman (2002)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Spider%20Man%20(2002)%20REMASTERED%20[Dubbing%20Indonesia].mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-7hwQrP2YtSgu1W8GIes3PHm7-CdmSCegQ&usqp=CAU" group-title="film dubbing",Spiderman 2 (2004)
@@ -1823,12 +1852,10 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Spider-Man.2.(2004).10
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Spider-Man.3.(2007).1080p.Webrip.x264.Indo.Dub.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77d5Yr_HNhYS4qAr0TrMvGAst1YnfEZVwqHYS4rVw9EjT7OivXTCdbKo&s=10" group-title="film dubbing",Spiderman home coming (2017)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/spiderman%20home%20coming.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTor7gWX7XhzQHs3F98qam-F5t50ojQ-xJWzM2dHnCW8XtGfHwPPN9Zxk&s=10" group-title="film dubbing",Doctor strange (2016)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Doctor_Strange(2016).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Mn-1Ajtx2P-nTUoe0Z6cOihQOK6ihccPcItwiclcK35KB0L1PeDmBekf&s=10" group-title="film dubbing",Doctor strange in the multiverse of madness (2022
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness_2022_Indo_Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW6RqvIH1zFvhDigZxB2YkT3gzh-0eRpyCsA&usqp=CAU" group-title="film dubbing",Black panther (2018)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/Black%20Panther%20(2018)%20[Dub%20Indo].mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Black_Panther_Wakanda_Forever_poster.jpg/220px-Black_Panther_Wakanda_Forever_poster.jpg" group-title="film dubbing",Black panther wakanda forever (2022)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Black.Panther.Wakanda.Forever.2022.1080p.HS.WEB-DL.DUBIndo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQWiZeCg0KCmoDs8d6s5lr6D4P7smjNW8IvQ&usqp=CAU" group-title="film dubbing",Antman (2015)
@@ -1861,16 +1888,10 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Transformers_%20Dark%20of%20the%20Moon%20(2011)%20Dubbing%20Indonesia%20720p%20by%20Nohan%20A.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/Transformers_Age_of_Extinction_Poster.jpeg" group-title="film dubbing",Transformers (2014)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/trsnsformers%202014%20ukielaki.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZudYaE8BFWm2pcRDk-IFXWUV2Usz5rZCTOir8_C4FBkztG-3Glr30oA&s=10" group-title="film dubbing",Bumblebee (2018)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/Bumblebee%20(2018)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRooI9bxpF31rMkoqdgVOYf_0IpGvevVFirmpgaNRgAJhiYKI7NWdx8-LRb&s=10" group-title="film dubbing",Captain america civil war (2016)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Captain.America.Civil.War.(2016).1080p.Hotstar.Web-DL.x264.Indo.Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8-mk60YWn3In9-MHeTxvQXPcW26MXRSZ-g&usqp=CAU" group-title="film dubbing",Captain america the first avenger (2011)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Captain%20America%20The%20First%20Avenger%20(2011)%201080p%20Webrip%20Indo%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScIvAIckeeORjhqLP0bfQoa_XXhsP3wIVwgQ&usqp=CAU" group-title="film dubbing",Captain america the winter soldier (2014)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Captain.America.The.Winter.Soldier.(2014).1080p.Webrip.x264.Indo.Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS879Pb7dgIXrxZm6pOjKaC-D_73E6wwdE7A&usqp=CAU" group-title="film dubbing",Captain marvel (2019)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movie%20hd/Captain.Marvel.(2019).1080p.Webrip.x264.Indo.Dub.mp4
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIUBz52GONE9iAHOYAn9Vjy5ZtcyTXvQZDQ&usqp=CAU" group-title="film dubbing",Titanic (1997)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Titanic%20(1997)%20[Dub%20Indo].mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8a/Mulan_2020_film_poster_on_Disney%2B.jpg" group-title="film dubbing",Mulan (2020)
@@ -1931,8 +1952,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/Werewolf%20by%20Night%20(2022)%20WEB-DL%20[Dubbing%20Indonesia].mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakww-Ghm-hR5hgGSf04kPY5zQIRMRK6D2qLjtQLsPtRB3oLbghXzjoag&s=10" group-title="film dubbing",Xmen (2000)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/X-Men%20(2000)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqPm2WsIRS09H76cCoGLmI4QMBMFQ2ET7K0qL-3ZC8KGAdaofnQ9254PEP&s=10" group-title="film dubbing",Xmen apocalypse (2016)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/X-Men%20Apocalypse%20(2016)%20[Dub%20Indo].mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQS1uaSXQ4qQK-vujcY9GTy5drseP3D2iT8QlrxRpay49eaw_qs2TRJ8g&s=10" group-title="film dubbing",Xmen dark phoenix (2019)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies/X-Men%20Dark%20Phoenix%20(2019)%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0c/X-Men_Days_of_Future_Past_poster.jpg" group-title="film dubbing",Xmen days of future past (2014)
@@ -1977,7 +1997,7 @@ https://movieku.ukielaki8387.workers.dev/0:/Film%20dubbing/Fist%20of%20fury%20(1
 https://movieku.ukielaki8387.workers.dev/0:/Film%20dubbing/Dragon%20the%20bruce%20lee%20story%20(1993).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXECOkeR0MDhHGtbw_2Oa98HU26vD2sS2Mk3_3iHysKmT8nlINXpGG_zIZ&s=10" group-title="film dubbing",Sixty million dollar man (1995)
 https://movieku.ukielaki8387.workers.dev/0:/Dubbing%20lagi/Sixty%20Million%20Dollar%20Man%20(1995)%20.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipuQyuhawIYKPuEqrR6dMMM9SxyxRdoI2tUW36RZnpazxbic6nxNv1lk&s=10" group-title="film dubbing",Kuch kuch hota hai (1998)
+
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Kuch%20kuch%20hota%20hai.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/PHDi1ujHh9wCGH_2_m.jpeg" group-title="film dubbing",Need for speed (2014)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Need%20for%20speed.mp4
@@ -2005,153 +2025,119 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/refs/heads/main/Pengepungan-di-Bukit-Duri.webp" group-title="film indonesia",Pengepungan di bukit duri  (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/pengepungan%20di%20bukit%20duri%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ukie4321/iptv-poster/main/poster/hq720.jpg" group-title="film indonesia",Norma antara mertua dan menantu  (2025)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indo%20lagi/Norma%20Antara%20Mertua%20dan%20Menantu.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ukie4321/iptv-poster/main/poster/maxresdefault.jpg" group-title="film indonesia",Konco-konco edan (2024)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indo%20lagi/Konco-Konco_Edan.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ukie4321/iptv-poster/main/poster/maxresdefault (1).jpg" group-title="film indonesia",A normal woman (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia%20lagi/A_Normal_Woman.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ukie4321/iptv-poster/main/poster/sddefault.jpg" group-title="film indonesia",Tasbih kosong (2023)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia%20lagi/Tasbih_Kosong.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/pengantin_iblis.webp" group-title="film indonesia",Pengantin iblis  (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Pengantin%20Iblis%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/pintu_terlarang.webp" group-title="film indonesia",Pintu terlarang  (2009)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/pintu%20terlarang%20(2009).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/misteri_bilik_korek_api.webp" group-title="film indonesia",misteri bilik korek api (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Misteri%20Bilik%20Korek%20Api%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/1_Kakak_7_Ponakan.webp" group-title="film indonesia",1 kakak 7 ponakan (2025)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indonesia/1%20Kakak%207%20Ponakan%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/alibii_com.webp" group-title="film indonesia",Alibii.com (2025)
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indonesia/Alibii.com%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/sarung_untuk_bapak.webp" group-title="film indonesia",Sarung untuk bapak (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/sarung%20untuk%20bapak%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/ruang_rahasia_ibu.webp" group-title="film indonesia",Ruang rahasia ibu (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/ruang%20rahasia%20ibu%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/singsot.webp" group-title="film indonesia",Singsot siulan kematian (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Singsot_siulan%20kematian_%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/azzamine.webp" group-title="film indonesia",Azzamine (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Azzamine%20%20(2024).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Pulung_gantung.webp" group-title="film indonesia",Pulung gantung (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Indonesia%202/Pulung_Gantung%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/keluarga_suami_adalah_hama.webp" group-title="film indonesia",Keluarga suami adalah hama (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Indonesia%202/Keluarga_Suami_Adalah_hama%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/paris_in_bali.webp" group-title="film indonesia",Made in bali (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Indonesia%202/Made_in_Bali%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/keajaiban_air_mata_wanita.webp" group-title="film indonesia",Keajaiban air mata wanita (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Indonesia%202/Keajaiban_Air_Mata_Wanita%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Pintu_Pintu_Surga.webp" group-title="film indonesia",Pintu-pintu surga (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Indonesia%202/Pintu-Pintu_Surga%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/pernikahan_arwah.webp" group-title="film indonesia",Pernikahan arwah (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Pernikahan_Arwah_2025.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/perewangan.webp" group-title="film indonesia",Perewangan (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Perewangan_2024.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/rahasia_rasa.webp" group-title="film indonesia",Rahasia rasa (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Rahasia_Rasa_2025.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/petaka_gunung_gede.webp" group-title="film indonesia",Petaka gunung gede (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Petaka_Gunung_Gede_1080P.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/setetes_embun_cinta_niyala.webp" group-title="film indonesia",Setetes embun cinta niyala(2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Setetes%20embun%20cinta%20niyala_2025.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/a_busines_proposal.webp" group-title="film indonesia",A business proposal (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/A_Business_Proposal%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/aku_jati_aku_aspegar.webp" group-title="film indonesia",Aku jati aku asperger  (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Aku_Jati_Aku_Asperger_2024.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/cinta_dalam_ikhlas.webp" group-title="film indonesia",cinta dalam ikhlas (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Cinta_Dalam_Ikhlas_2024.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Cinta_tak_pernah_tepat_waktu.webp" group-title="film indonesia",Cinta tak pernah tepat waktu  (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/cinta%20tak%20pernah%20tepat%20waktu%20(2024).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/perayaan_mati_rasa.webp" group-title="film indonesia",Perayaan mati rasa (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Perayaan_Mati_Rasa_(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/rumah_teteh.webp" group-title="film indonesia",Rumah teteh : Story of helena  (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/rumah%20teteh_story%20of%20helena_(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/women-from-rote-island.webp" group-title="film indonesia",Women from rote island (2023)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/women%20from%20rote%20island%20(2023).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Sampai-Nanti-Hanna.webp" group-title="film indonesia",Sampai nanti hanna (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Sampai%20nanti,hanna%20(2024).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/indigo.webp" group-title="film indonesia",Indigo (2023)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Indigo_2023.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/love_therapy.webp" group-title="film indonesia",Love therapy (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Love_Therapy_2025.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/paris_in_bali.webp" group-title="film indonesia",Paris in bali (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Paris_in_Bali_2025.mp4
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/refs/heads/main/Pengepungan-di-Bukit-Duri.webp" group-title="film indonesia",Pengepungan di bukit duri  (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/pengepungan%20di%20bukit%20duri%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ukie4321/iptv-poster/main/poster/hq720.jpg" group-title="film indonesia",Norma antara mertua dan menantu  (2025)
-https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indo%20lagi/Norma%20Antara%20Mertua%20dan%20Menantu.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ukie4321/iptv-poster/main/poster/maxresdefault.jpg" group-title="film indonesia",Konco-konco edan (2024)
-https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indo%20lagi/Konco-Konco_Edan.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ukie4321/iptv-poster/main/poster/maxresdefault (1).jpg" group-title="film indonesia",A normal woman (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia%20lagi/A_Normal_Woman.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ukie4321/iptv-poster/main/poster/sddefault.jpg" group-title="film indonesia",Tasbih kosong (2023)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia%20lagi/Tasbih_Kosong.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2UnLKl1TUwlkFUC2m77BImSmzu0jZrCqhoySZ-hh7jeAQnEi_L0IWSY&s=10" group-title="film indonesia",Pengantin iblis  (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Pengantin%20Iblis%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7T1JkZG2kX2RDqOoyYi5KR0YM42WQLB6jAxMKJ7L7SFvjVRei0-I1hg&s=10" group-title="film indonesia",Pintu terlarang  (2009)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/pintu%20terlarang%20(2009).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQewMwWaAzG7vW0_Cy69t525S2fd1YXMwQPk-_0yz7PfkoU-ef_93l6WT8&s=10" group-title="film indonesia",misteri bilik korek api (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Misteri%20Bilik%20Korek%20Api%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSbG3QQQ8_Lfs_Qe0yIxW4qNbiO0ICUf6Sm5GBpR432PynkCGN98vxy8&s=10" group-title="film indonesia",1 kakak 7 ponakan (2025)
-https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indonesia/1%20Kakak%207%20Ponakan%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaVmUswLNqBRaigt154NYTWiYllKz5a-ZjXnI8n0GiX30wU_EtQnMOssvX&s=10" group-title="film indonesia",Alibii.com (2025)
-https://mutia1503.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indonesia/Alibii.com%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_8CUh5cWbAO9Bu6VB_36fDpJXERkG4U1r2xqqiIO3WcMHUh1EsxanKmA&s=10" group-title="film indonesia",Sarung untuk bapak (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/sarung%20untuk%20bapak%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSWcSSHsNzr0pSh_6sI1Zdtu-Rqfh9u7pLEFdajyP3vyRjAVEgk_2tCdu7&s=10" group-title="film indonesia",Ruang rahasia ibu (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/ruang%20rahasia%20ibu%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSW_B3sPeB0A9T7EFe_BC16eSeRjfRMbmz4aVSZC--UxGAwjO5KU0RK40&s=10" group-title="film indonesia",Singsot siulan kematian (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Singsot_siulan%20kematian_%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvPz5byc8T54wCrp7yv1LSmnamzzKXClSvQYpWBKKRf7dQYETHwk_VTiZ-&s=10" group-title="film indonesia",Azzamine (2024)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Azzamine%20%20(2024).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSVgpv0cKPf0IFuK4nM8UDf1dWiCOywEith2e9NbaI6VWDkUMQUxycMiNC&s=10" group-title="film indonesia",Pulung gantung (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Indonesia%202/Pulung_Gantung%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFdF9GaEr_KC6Qc-tqs-P9IHIx1qBsdktAXdHiuTkOvkA_qgc9LomRD4&s=10" group-title="film indonesia",Keluarga suami adalah hama (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Indonesia%202/Keluarga_Suami_Adalah_hama%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuxGlKenT-4HY_yL9bjoZdTx2R8YYBp7goUybSmSE76RMu8eQplWDS2ZE&s=10" group-title="film indonesia",Made in bali (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Indonesia%202/Made_in_Bali%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7DjfDH74oOWu1dJ0xbXU59oQde9PDB4BF5npDZHhYeveH5T4NP0FIcloI&s=10" group-title="film indonesia",Keajaiban air mata wanita (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Indonesia%202/Keajaiban_Air_Mata_Wanita%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxYiX7j0L8wxVwmQwf0VD9ngCO5I390U9ER9EU5ktFY20UiKaGTpNMwI8U&s=10" group-title="film indonesia",Pintu-pintu surga (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Indonesia%202/Pintu-Pintu_Surga%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRa6TldP9SLm4ac6HUyElgQb8l8UmL05g3qjT6eDciDEGBY7i6_nLDrDs&s=10" group-title="film indonesia",Pernikahan arwah (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Pernikahan_Arwah_2025.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qJ9-8FMvE7Ca8F1h9J1yG7SIx6DOHGb5-LBm-FqFpQ_XrPg0AxkPW6I&s=10" group-title="film indonesia",Perewangan (2024)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Perewangan_2024.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdORKtsrt-Z8ecf2JlUkpOisettghlBYWo7QxuQxV5QusaWlblIIUGh553&s=10" group-title="film indonesia",Rahasia rasa (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Rahasia_Rasa_2025.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1NHGH4ftCpz69r1fMqjs9ybkF7xJymfkgH1lLcs8MARxVsPWCRxtWJqvX&s=10" group-title="film indonesia",Petaka gunung gede (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20indonesia/Petaka_Gunung_Gede_1080P.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVL4t2roFVRmUjKXCfdEXLxBjsFQS54mEB1ZgPd7LnGgC3jqh31CgJ453-&s=10" group-title="film indonesia",Setetes embun cinta niyala(2025)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Setetes%20embun%20cinta%20niyala_2025.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp3G0p5vpHZmgCczO-NLCAIT-lE4wAy3fVGuku8haX3tCnRNNzggzqjVE&s=10" group-title="film indonesia",A business proposal (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/A_Business_Proposal%20(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMqROqlv_TA7Q9vZkvRROrGe6sw9A7nLlGkjxx0rZv6xcAjWupI5tiG4E&s=10" group-title="film indonesia",Aku jati aku asperger  (2024)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Aku_Jati_Aku_Asperger_2024.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJN4TLga-jr5cSxu0zUW53ownkHiA7syOkg&usqp=CAU" group-title="film indonesia",cinta dalam ikhlas (2024)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Cinta_Dalam_Ikhlas_2024.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw06s3LvNBCl1sLFxTae-wDCeV2ZWgVLA9CWhQGx-n9uWORhefthG9sDyA&s=10" group-title="film indonesia",Cinta tak pernah tepat waktu  (2024)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/cinta%20tak%20pernah%20tepat%20waktu%20(2024).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZujIjIbW8yNqTQArjaAxzpEjMRSA0j07bHDMV0lEYJVD8Pg58t1D7RfsN&s=10" group-title="film indonesia",Perayaan mati rasa (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Perayaan_Mati_Rasa_(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXx6mzlUk9TFlG4p4ymz5DU9ioYKskkd1nQ8adDYqi2DdfcKEThlDy8Y&s=10" group-title="film indonesia",Rumah teteh : Story of helena  (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/rumah%20teteh_story%20of%20helena_(2025).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpnIIxqvLmLqCnbybkYJk4Mw6EK5nRFJAfnN5_pNHTEf9BpKyU7Gv2wa27&s=10" group-title="film indonesia",Women from rote island (2023)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/women%20from%20rote%20island%20(2023).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0kP6dGAmLMP5CMh2iz4y1XuWPSlsjItXrqR0mmx38qOn4HiZXMNPWSE&s=10" group-title="film indonesia",Sampai nanti hanna (2024)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Sampai%20nanti,hanna%20(2024).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKXMmbjM4Cj3QxhE40F5Ijf9XtJmtbMU8tSaWNZB_y44jhgEscRiXfQsG&s=10" group-title="film indonesia",Indigo (2023)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Indigo_2023.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6FfCcIfLDCEse_u5gmCbKf63mbedvVh_YQ&usqp=CAU" group-title="film indonesia",Love therapy (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Love_Therapy_2025.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3rXl3Lek-FJAebVfCTY8AFfKd882Juak918dTuAIBjZkiWQvCEV6RamE1&s=10" group-title="film indonesia",Paris in bali (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Paris_in_Bali_2025.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQUWzJZZHo7yddKfmjY-ZH1m9n1KQGMPMNK-z9vGiTFxz4t3yaof_Hes&s=10" group-title="film indonesia",Kaka boss (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Kaka_Boss_2024.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vqifZuUcixjE8wMnHEpXQNzsrcARl1DaBx88UXG2D8vOMSozqpJuOJo&s=10" group-title="film indonesia",1 imam 2 makmum(2025)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/1_Imam_2_Makmum%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHlemM4Egfk3XstbBH1Bj5k_pQdw5x_vyWokYE3l9A7QD_4DnXqQHUC68l&s=10" group-title="film indonesia",kupu-kupu kertas (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/Kupu-Kupu_Kertas%20(2024).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUMpKugVTeBkT7waLw_TqVA3iD_Bl9uTKlmK30rVXx_hzV9eREx9-cKhk&s=10" group-title="film indonesia",The mediterranean sea (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Movie%20indonesia/The_Mediterranean_Sea%20(2024).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgDAtyxHbRrnzg1HinBXVHXTTr-1z_6-8mIaHF5M8fPbW7wFpqehtfOI&s=10" group-title="film indonesia",Sebelum 7 hari (2025)
@@ -2804,8 +2790,6 @@ https://cloud-oyen.eu.org/1:/Film%20Dubbing%20Indonesia/gendhutz/Hotel%20Transyl
 https://cloud-oyen.eu.org/1:/Film%20Dubbing%20Indonesia/gendhutz/How%20to%20Train%20Your%20Dragon:%20The%20Hidden%20World%20(2019)%20[Dubbing%20Indonesia].mp4
 
 
-
-
 #EXTINF:-1 group-title="Film Animasi" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/astro_boy.webp",Astro Boy (2009) 
 https://cloud-oyen.eu.org/1:/Film%20Dubbing%20Indonesia/Mip%20Hasn/Astro%20Boy%20(2009)%20[Dub%20Indo].mp4
 
@@ -2909,16 +2893,22 @@ https://cloud-oyen.eu.org/1:/Film%20Dubbing%20Indonesia/Mip%20Hasn/Zootopia%20(2
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman return of the caped crusaders (2016)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbfG5Qca-aV9Vm_t4kHaFfP2I4rtY2yT9y8Rgw57ZlvIU2zFW_tYDsmw&s=10" group-title="Film Animasi",Batman return of the caped crusaders (2016)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/Batman%20Return%20of%20the%20Caped%20Crusaders%20(2016).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Batman vs two face (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfi8cmK0XLp12pvkkbfWZ2TObaHZPQz9CMeXVR5n3P9zQz96Mch0hR4EwR&s=10" group-title="Film Animasi",Batman vs two face (2017)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/Batman%20vs%20Two-Face%20(2017).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Ice age (2002)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgRxW3UcrGq_xM_Zu8hZ6rs20vxivf5kcurtsKGOW7a-95Wada9d-Xk_U&s=10" group-title="Film Animasi",Ice age (2002)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/Ice%20age%20(2002).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Ice age (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjytRAQznD_Iw8ipAAKpgvgozspc74zgn-1d84ExA8UZKOReKk1yVS8I&s=10" group-title="Film Animasi",Ice age (2022)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/Ice%20age%20(2022).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Lego disney princess villains unite (2025)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu5F9w7kvIMrdYil2fezYPJdYlJb8I-wCMWm6HTrmHL3bX25gsUYM8LUw&s=10" group-title="Film Animasi",Lego disney princess villains unite (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/Lego%20disney%20princess%20villains%20unite%20(2025).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Lilo & stitch the movie (2005)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6BB97Bur60XYLYMLc9pDM6VKkXSinxO7mdqAW4Z5bCGWtWOcfF3F76j_&s=10" group-title="Film Animasi",Lilo & stitch the movie (2005)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/Lilo%20and%20stitch%20the%20movie%20(2005).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Reign of the supermen (2019)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqlRJw0g_WEYqMmedJ6evm83Gn-MjdCid_PFdPACs3lrVmvUzlveQl4Q&s=10" group-title="Film Animasi",Reign of the supermen (2019)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/Reign%20of%20the%20Supermen%20(2019).mp4
 #EXTINF:-1 tvg-id="" tvg-name="All star superman (2011)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLBXAez9axTYTgCAZ6f_YsVB8okChQHAqXXlmzHF7PkrMNbcs_7EVT8w&s=10" group-title="Film Animasi",All star superman (2011)
@@ -3011,8 +3001,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/m
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/the%20sea%20beast%202022.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wish (2024)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3wN05ANsVdC85jehAVR1bRpfGyH4LksFbx5X-0WjJBgFKA4NhjxI2Dpw&s=10" group-title="Film Animasi",Wish (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/wish%202024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Onward (2020)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2b_X27pgY0XWnScMet9SNtoL20SI7VHTj0qwqAMOka-yj3GoJUv4dvvE&s=10" group-title="Film Animasi",Onward (2020)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Onward%20(2020)%20Indo%20Dub.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Spellbound (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU4NWFlMjEtZGFhMi00NzkxLWJkODQtOWExNDQ2NGVjM2RjXkEyXkFqcGc@._V1_.jpg" group-title="Film Animasi",Spellbound (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/spellbound%202024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="lupin  (1989)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCkrR8NPabPufw7HH1RiPsViKXlrvro63ZQ&usqp=CAU" group-title="Film Animasi",lupin  (1989)
@@ -3045,14 +3034,12 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Nussa%20The%20Movie%2
 https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/I%20Am%20Groot%20season%201%20full.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rocket and groot (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf1Mt0UR2HtXA8oOhVOzYSB0qeUbLPPoT9p-hvwIfoLy3MafRCOrU9SCJ&s=10" group-title="Film Animasi",Rocket and groot (2017)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Rocket%20and%20Groot%20-%20web%20series%20(2017)%20(complete)%20[Dubbing%20Indonesia].mp4
-#EXTINF:-1 tvg-id="" tvg-name="Turbo (2013)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/Turbo_%28film%29_poster.jpg/220px-Turbo_%28film%29_poster.jpg" group-title="Film Animasi",Turbo (2013)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Turbo%20(2013)%20Dubbing%20Indonesia.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="tThe secret life of pets (2016)" tvg-logo="https://cdn11.bigcommerce.com/s-9yct61arm5/images/stencil/1280x1280/products/225995/223910/secret-life-of-pets__28403.1673547532.jpg?c=1" group-title="Film Animasi",tThe secret life of pets (2016)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/The%20Secret%20Life%20of%20Pets%20(2016)%20Dubbing%20Indonesia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The secret life of pets (2019)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSua_6hObsJ047_MA4aMUxRSHFPDxYbfSjgmnnNqVTYkpSanhz9u8UEJr&s=10" group-title="Film Animasi",The secret life of pets (2019)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/The%20Secret%20Life%20of%20Pets%202%20(2019)%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drifting home (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJuGKOpUGXivTyyVHUwRF-g3PnvRVqQujHgA&usqp=CAU" group-title="Film Animasi",Drifting home (2022)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/drifting%20home%20(2022).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="My oni girl (2024)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVK1hpINEXrSpbGkg_hl1SQaAkhS59OP9g-3Guz2qWi7ijUnuo8SRPSSoq&s=10" group-title="Film Animasi",My oni girl (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/My.Oni.Girl.2024.NF.1080p.Dubbing.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Troll the tale of the tail (2018)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrHj0QK7DQoBtCzuF22eyS8kIn5i8pA36_uAuKl0ZO5Q6S86v8n-9INo7k&s=10" group-title="Film Animasi",Troll the tale of the tail (2018)
@@ -3071,16 +3058,11 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/T
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Tessss/the%20boss%20baby%20(2021).mp4
 #EXTINF:-1 tvg-id="" tvg-name="The boss baby christmas 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBnF2_v0-fz7MnKaTzdTr0l-ETM_JwT_64cdvcU62350a_frcoythV3e_&s=10" group-title="Film Animasi",The boss baby christmas 2022
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/The%20Boss%20Baby%20Christmas%20Bonus%20(2022)%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rio (2011)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/Rio2011Poster.jpg" group-title="Film Animasi",Rio (2011)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Rio%20(2011)%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rio (2014)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODOLlZyhjOOQopZOadQfc69aopsqMKll8L-_tfaKzVwNkQT7ZvNKKGIQ&s=10" group-title="Film Animasi",Rio (2014)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Rio%202%20(2014)%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mr peabody and sherman (2014)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Mr_Peabody_%26_Sherman_Poster.JPG/220px-Mr_Peabody_%26_Sherman_Poster.JPG" group-title="Film Animasi",Mr peabody and sherman (2014)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Mr.%20Peabody%20and%20Sherman%20(2014)%20Dubbing%20Indonesia.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Rabbids invasion special mission to mars (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7oEkFgkrpTSl4_GIT5Oi3Jiaym2V0aYF2XX6PQ4KQS9zYZkipP7l4f5s&s=10" group-title="Film Animasi",Rabbids invasion special mission to mars (2022)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Rabbids%20Invasion%20Special%20Mission%20to%20Mars%20(2022)%20dubbing%20indonesia%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratatouille (2007)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5H-NtButsY8PvCgES3ttZ9_3-4m06mCcS7g&usqp=CAU" group-title="Film Animasi",Ratatouille (2007)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Ratatouille%20(2007)%20Indo%20Dub.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Stuart little (1999)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzI3cnWWMT6z2S-ZB8x5E2ny1duFFZfh7qEFGJ1ojeTvFVtu1ePW3AB9s&s=10" group-title="Film Animasi",Stuart little (1999)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/stuart%20little%20(1999).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stuart little (2002)" tvg-logo="https://id-test-11.slatic.net/p/9bac92d08591fcb834450ad9844a6fe3.jpg" group-title="Film Animasi",Stuart little (2002)
@@ -3101,8 +3083,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/C
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Crayon%20Shin-chan%20Movie%2023%20Ora%20no%20Hikkoshi%20Monogatari%20-%20Saboten%20Daisuugeki%20Dubbing%20Indonesia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Crayon shinchan bakusui yumemi world dai totsugeki (2024)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWOBF6FQBcqjq63BMpD-cqNbE2oOs9uTL7ZqDgxbINkODpP78MYBjjCo5D&s=10" group-title="Film Animasi",Crayon shinchan bakusui yumemi world dai totsugeki (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Crayon%20Shin-chan%20Movie%2024%20Bakusui%20Yumemi%20World%20Dai%20Totsugeki%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The good dinosaur (2015)" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_thegooddinosaur_19753_03c2af0a.jpeg" group-title="Film Animasi",The good dinosaur (2015)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/The%20good%20dinosaur%202015.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Upin dan ipin keris siamang (2019)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e8/Upin_%26_Ipin_Keris_Siamang_Tunggal_Poster_Resmi.jpg" group-title="Film Animasi",Upin dan ipin keris siamang (2019)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/upin%20ipin%20keris%20siamang%20tunggal.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Trolls (2016)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqKAyBk7uMiDlyEzCUoGloTiF4g-qTZ4gMd2w8ffFcEnRYYhE6coC6gGk&s=10" group-title="Film Animasi",Trolls (2016)
@@ -3113,16 +3094,11 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Film%20anak%20lagi/tr
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/trollhunters%202021%20ukielaki.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Elemental (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4B47QL62r6F090QAG1ZM7ZxCMmDngnAhE59snIxZQvtkPbTSt_6yneJw&s=10" group-title="Film Animasi",Elemental (2023)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Elemental%202023.720.WEB-DL.Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Big hero 6 (2014)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuTlSF7BRqzU0szIvFa4D1U5TD5PJ-HjPFO1O3Ub-JYtpM4cw1JgUgIGc&s=10" group-title="Film Animasi",Big hero 6 (2014)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Movie%20kids/Big.Hero.6.DubIndo.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Astro boy (2009)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30h-aXnCSw2a5xQ3G_R_0GKWIl0cMe3tpk_WN689Q9jKyYbtZ_gGn1zS9&s=10" group-title="Film Animasi",Astro boy (2009)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Astro%20Boy%20(2009)%20Indo%20Dub.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Ultraman rising (2024)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJCgqeErbuvGYSlzXWApZgR-l-sSuvVE3G-3pF0igbGSixoXijCqQGYo&s=10" group-title="Film Animasi",Ultraman rising (2024)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Ultraman_%20Rising%20(2024)%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Finding nemo (2003)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtUjdYR6BJVkVNwmOIPhGHtl_o1UhP4lAIbnGY18qcAl6l949n4qHtqBmt&s=10" group-title="Film Animasi",Finding nemo (2003)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Finding%20Nemo%20(2003)%20Indo%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Finding dory (2016)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8R41rYGPzxiXosuc_f0_-AqDvQYB6ORLsSbJWUO0t2mOlhDV-ID0eQvI&s=10" group-title="Film Animasi",Finding dory (2016)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Finding%20Dory%20(2016)%20Indo%20Dub.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Frozen (2013)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFbfm_jrpkVEousiu_bZIlhgeqHgXCaRKy1kX4eXZUtETAC97HVKhQVK0&s=10" group-title="Film Animasi",Frozen (2013)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Frozen%20(2013)%20Dubbing%20Indonesia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Frozen fever (2015)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/40/Frozen_Fever_poster.jpg" group-title="Film Animasi",Frozen fever (2015)
@@ -3147,36 +3123,23 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/u
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Hulk-%20Where%20Monsters%20Dwell%20(2016).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ironman and captain america heroes united (2014)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNuSTu2Dn4yH0Eyi3jCoASdGASVtMilC3D8E4aAiQ6lVYv1SeRskYpCs&s=10" group-title="Film Animasi",Ironman and captain america heroes united (2014)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/%E2%81%A3Iron%20Man%20&%20Captain%20America%20Heroes%20United%20(2014)%20[Dubbing%20Indonesia].mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mars needs moms (2011)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Mars_Needs_Moms%21_Poster.jpg" group-title="Film Animasi",Mars needs moms (2011)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/SontolFilm.Mars%20Needs%20Moms%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZwGVdnNfgeW0HUgSYs-LdWZxTsN_3VcIPoFLuaYVFfAoJbYp5IL9XZo&s=10" group-title="Film Animasi",Coco (2017)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/coco%202017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Despicable me (2010)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFg1AGUS_j_IYakMjJb-FRaalj-GfShQJiZha3aW0zXbPYib7UvukuHXG0&s=10" group-title="Film Animasi",Despicable me (2010)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Despicable%20Me%20(2010)%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Despicable me (2013)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_gebC7Ol0abpUzfL8OMnM2eAD_DWhIozs8IZOi3T901jgq99Y7yR6zfFG&s=10" group-title="Film Animasi",Despicable me (2013)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/despicable%20me%202%202013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Despicable me (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvSXBDzlVM7ldikjUdWVo3HP7wRXQlpImEQ&usqp=CAU" group-title="Film Animasi",Despicable me (2017)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Despicable%20Me%203%20(2017)%20Dubbing%20Indonesia.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Minions (2015)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUY1ShyYGH0v2Tfd_MmXYY-btJdEcMA8PnVLXiO_crNB1Adxtq3lsPR6Q&s=10" group-title="Film Animasi",Minions (2015)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/minions%202015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Minions the rise of gru (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPMG5LtOHFnhAbg4sBRYILN2pHBmAAGiGvRzH7snK5iZu5sTBJY2iLAGA&s=10" group-title="Film Animasi",Minions the rise of gru (2022)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Minions%20The%20Rise%20Of%20Gru%20(2022)%20Dub%20Indo.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania (2012)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnTs6OpBQZkHGByl6QOVHyK2b4V6V2e7kE9ipGKGfUOQbsiFc8OUxrXb3F&s=10" group-title="Film Animasi",Hotel transylvania (2012)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/hotel%20transylvania%202012.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania summer vacation (2018)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXF2BZgPPITii07iTwQr3QCZ5nN0mHdwsHfA&usqp=CAU" group-title="Film Animasi",Hotel transylvania summer vacation (2018)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Hotel%20Transylvania%203%20Summer%20Vacation%20(2018)%20Dubbing%20Indonesia-AceFile.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania (2015)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPXi368oNpeQlfSfBd8Xr6URt-TrX5aDPIO2100NIlWuekTaoW2Fr_j6kA&s=10" group-title="Film Animasi",Hotel transylvania (2015)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/hotel%20transylvania%202%202015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luca (2021)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThaTgHjck1shiCzbqJH7Pb73FBmx0S0193ZI0O5WFE-XWAouzibSq_j6Y&s=10" group-title="Film Animasi",Luca (2021)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/luca%202021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raya and the last dragon (2021)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKi1PBVx0vQd2spFNPeQsVcnABSvKy1FDGN5lJGviaLIS9m6ErSxGE7NhJ&s=10" group-title="Film Animasi",Raya and the last dragon (2021)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/raya%20and%20the%20last%20dragon%202021.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Werck it ralph (2012)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUS4_BbdIAbnuqNnheP4ju64xcADrWdRvfCnR_7UhkMX_265KfYh0WJdET&s=10" group-title="Film Animasi",Werck it ralph (2012)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/werck%20it%20ralph%202012.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Werck it ralph (2018)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrE77g4Zd01YCfCfMz4vUPAeiZIrr03fXEGdfzG_gN68GlywUIVCVwQW4&s=10" group-title="Film Animasi",Werck it ralph (2018)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/werck%20it%20ralph(2018)%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inside out (2015)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOChzbAVxomR8C_1Lwz_wrlssxRFd_lVWtA&s" group-title="Film Animasi",Inside out (2015)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Movie%20kids/Inside.Out.720p.HD.DubIndo.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Buzzlightyear (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZxlteGXxSO_Q7DEPbVrfTaM1au345S_bFnBKBnoxhEGQXMXjjz9hYNg&s=10" group-title="Film Animasi",Buzzlightyear (2022)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Download%20BuzzLightyear.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Very bad holiday (2023)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/00/The_Bad_Guys_poster.jpeg" group-title="Film Animasi",Very bad holiday (2023)
@@ -3209,15 +3172,12 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/h
 #EXTINF:-1 tvg-id="" tvg-name="Sing (2016)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCBssFc0nViHzArfQyQ_mqssf7tcQ2_tt_Ug&usqp=CAU" group-title="Film Animasi",Sing (2016)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/sing%202016.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFfX4eAhdTzVhJygnDLME-DKDI7WEBIlTHtvcU5eRdJxSzu397-MyZRo_&s=10" group-title="Film Animasi",Soul (2020)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/soul%20(2020).mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivo (2021)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-14qfGFHpG0monxc_NHcYeGgnBXSNXLpMI4_j-vYV4mmRgfHmtZhbQCi&s=10" group-title="Film Animasi",Vivo (2021)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/vivo%20(2021).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wish dragon (2021)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5fDSmCA76v1r77mCiSaCXKjiBSezWJqzcMgIPOrc0hED-klAetKJEbhA&s=10" group-title="Film Animasi",Wish dragon (2021)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/wish%20dragon%20(2021).mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wall e (2008)" tvg-logo="https://fr.web.img3.acsta.net/medias/nmedia/18/63/93/01/18948378.jpg" group-title="Film Animasi",Wall e (2008)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/wall-e%20(2008).mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The little vampire (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zX_QKSWCL-0htjzFiUhaSRsW0JnoBNosilyRrDY9CEPsuQnABc5MxMe_&s=10" group-title="Film Animasi",The little vampire (2017)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/the%20little%20vampire%203d%20(2017).mp4
@@ -3469,10 +3429,8 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Shrek%202%20Dubb
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Shrek%203%20Dubbing%20Indonesia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shrek 4 (2010)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lOT5ke53V5N0ednyVO3Q50YLm9pDJR9GbPzv9ezAfTKatn0sRl0x7RM&s=10" group-title="Film Animasi",Shrek 4 (2010)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Shrek%204%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Incredibles (2004)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Incredibles_%282004_animated_feature_film%29.jpg" group-title="Film Animasi",Incredibles (2004)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/The%20Incredibles%20(2004)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-name="Incredibles (2018)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/Incredibles_2.jpg" group-title="Film Animasi",Incredibles (2018)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Incredibles%202%20(2018)%20Indo%20Dub.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Hercules (1997)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Hercules_%281997_film%29_poster.jpg" group-title="Film Animasi",Hercules (1997)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Hercules%20(1997)%20Indo%20Audio%201080p%20WEBRip.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Toy story of terror (2013)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpEQdW3xFespOXDDqbTmzV3M_kNx0Rm3FP8XwaImMhqXKH68r2EbgNJY&s=10" group-title="Film Animasi",Toy story of terror (2013)
@@ -3493,10 +3451,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indone
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Miraculous%20Lady%20bug%20&%20Cat%20Noir%20The%20Movie%202023_NF_WEB_DL_Dubbing.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cars (2006)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Cars_2006.jpg" group-title="Film Animasi",Cars (2006)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Cars2006DubIndo.mp4
-#EXTINF:-1 tvg-id="" tvg-name="cars 2 (2011)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Cars_2_Poster.jpg" group-title="Film Animasi",cars 2 (2011)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Cars%202%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cars 3 (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jMoV060_KlJWT6B-xJgwa-r8-R8xM5u3iw&usqp=CAU" group-title="Film Animasi",Cars 3 (2017)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Cars%203%20(2017)%20[Dub%20Indo].mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Titus : mystery of the enygma (2020)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhjV475jb44Sxcf8fSGnzyYT_eeywXZjC8w&usqp=CAU" group-title="Film Animasi",Titus : mystery of the enygma (2020)
 https://storage.googleapis.com/ca2dad124af273db10f.appspot.com/78e7ae344ac8a6143e5da438c47d36f6_1665311935.mp4?sumber=awal_storage
 #EXTINF:-1 tvg-id="" tvg-name="Battle of surabaya (2015)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/Battle_of_Surabaya.jpeg" group-title="Film Animasi",Battle of surabaya (2015)
@@ -3592,8 +3547,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/firedrake%20the%20sil
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/How%20to%20Train%20Your%20Dragon%20(2010)%20[Dub%20Indo].mp4
 #EXTINF:-1 tvg-id="" tvg-name="How to train your dragon (2014)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpiXBTWY4vfAMPP4mExmHmAYP7pPpX-Ew8NEfd9ZlBSj5dW2926CldAY&s=10" group-title="Film Animasi",How to train your dragon (2014)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/How%20to%20Train%20Your%20Dragon%202%20(2014)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-name="How to train your dragon the hidden world (2019)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/How_to_Train_Your_Dragon_3_poster.png" group-title="Film Animasi",How to train your dragon the hidden world (2019)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/How%20to%20Train%20Your%20Dragon_%20The%20Hidden%20World%20Dubbing.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Ice age (2006)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ15lnTRl368qxagDbJyL8osU8kTm0wOiHyckb_0t5UCHd4_Yx5-hU2Rlg&s=10" group-title="Film Animasi",Ice age (2006)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/ice%20age%202%202006%20ukielaki.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ice age (2016)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Ice_age_collision_course.jpg" group-title="Film Animasi",Ice age (2016)
@@ -3619,10 +3573,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/missing%20link%202019
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Monster%20Family%20(2017)%20Dubbing%20Indonesia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monster family (2021)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMzNLzQoX_B1YwIh7xd9_ur6s-qUD102jrS-SvOYjOnP0AGRrDokUd1IZ&s=10" group-title="Film Animasi",Monster family (2021)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Monster%20Family%202%20(2021)%20Dubbing%20Indonesia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monsters inc (2001)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwR3ZBxRkcqzZYGGJG3-3aCLloSb-xPrBYnTXhVyn4fC-ETIUd0MNdNE&s=10" group-title="Film Animasi",Monsters inc (2001)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Monsters%20Inc.%20(2001)%20[Dub%20Indo].mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monsters university (2013)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndoY0gko4GJLGXbrNocc8DG6aMBcm80qiEkkquNKPYrERY1CMFO4USZw&s=10" group-title="Film Animasi",Monsters university (2013)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Monsters.University.2013.Dubbing.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Moshi monster (2013)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4bSmVPnbQsrmPuGNMqtRVlxDF_nIpgZ1uxKC7U1mD3mNUY0f1yadBIO8&s=10" group-title="Film Animasi",Moshi monster (2013)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/moshi%20monster%20ukielaki.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Olaf frozen adventure (2017)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqkrER6Rou9FihIQkE4VEyx0xPawnyVgcr8m9LGuSTpbhX_Iw2RR86c8&s=10" group-title="Film Animasi",Olaf frozen adventure (2017)
@@ -3730,8 +3681,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Watch%20Chupa%20(2023
 
 #EXTINF:-1 tvg-id="" tvg-name="Zambezia (2012)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqAlqeo5e4FodW2QY9RyqtE9baJTpzNxO_A&usqp=CAU" group-title="Film Animasi",Zambezia (2012)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/zambezia%202012%20ukielaki.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zootopia (2016)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7tHl1ls6cUJJJ0h1R1mPkIsKu0NYV0_JywNKYdVXbhjxuvBxKscTbQ8&s=10" group-title="Film Animasi",Zootopia (2016)
-https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Zootopia%20(2016)%20[Dub%20Indo].mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Paddle pop kombatai (2009)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgnNRIcdtMxMW-aoX3seT-IFWqkuBfEABtjHH6g02VMO8VkBWoU2Lf38&s=10" group-title="Film Animasi",Paddle pop kombatai (2009)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Movie%20kids/paddle%20pop%20kombatai%202009.mp4
 
@@ -3836,8 +3786,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Film%20anak%20lagi/to
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Film%20anak%20lagi/tom%20and%20jerry%20robin%20hood%202012%20ukielaki.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tom and jerry giant adventure (2013)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZgdYdj1xnCYjz01-4_TVnqmz_UBRAMT-2LvZsqB43Nk8YJPjB0NP-X-M&s=10" group-title="Film Animasi",Tom and jerry giant adventure (2013)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Film%20anak/Film%20anak%20lagi/tom%20and%20jerry%20giant%20adventure%202013%20ukielaki.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Penguins of madagascar (2014)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_rA_dlGb6GN8WVX5HCUlxmskBX7Y2PKbOo_2nZv1gPk2JNh1_RtEAxA&s=10" group-title="Film Animasi",Penguins of madagascar (2014)
-https://movieku.ukielaki8387.workers.dev/0:/Film%20dubbing/penguins%20of%20madagascar%20(2014).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Madagascar (2005)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT5l-Bz5S0gfnNlkYLNt6fyuS8oKf6G6-bsI_tIDtjXGn-E3ClMAUrW9Ts&s=10" group-title="Film Animasi",Madagascar (2005)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Dubbing%20indonesia/Madagascar%20(2005)%20BluRay%20[Dubbing%20Indonesia].mp4
 #EXTINF:-1 tvg-id="" tvg-name="Madagascar 2 : Escape 2 africa (2008)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMqQdBmq8KeHxIM1F_e0cYGlR-ReMmNNEDc3nNIWTTGHpFarxQfLtOcSX&s=10" group-title="Film Animasi",Madagascar 2 : Escape 2 africa (2008)
@@ -4396,13 +4345,13 @@ https://mutia1503.ukielaki88.workers.dev/0:/Album%20musik%20dangdut/Rhoma%20Iram
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Rita_sugiarto.webp" group-title="Musik Mix", Rita Sugiarto
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20musik%20dangdut/Rita%20Sugiarto%20_%20Full%20Album%20Dangdut%20Lawas%20Nostalgia%20(%20720%20X%201280%20).mp4
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Meggiez.webp" group-title="Musik Mix", Meggi Z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Meggiez.webp" group-title="Musik Mix", Meggie Z
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20musik%20dangdut/Terbaik%20Dari%20Meggi%20Z%20-%20Lagu%20Paling%20Enak%20Dinyanyikan%20Saat%20Karaoke%20(Full%20Album)%20HQ%20Audio!!%20(%20720%20X%201280%20).mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Exist.webp" group-title="Musik Mix", Exist
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20musik%20melayu/Exist%20%20%20Full%20Album%20%20%20Lagu%20Lawas%20Nostalgia%20%20%20Lagu%20Malaysia%20Lama%20Populer%20ukielaki.webm
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Saleem.webp" group-title="Musik Mix", Iklim
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Saleem.webp" group-title="Musik Mix", Saleem
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20musik%20melayu/Full%20Album%20Saleem%20Iklim%20Malaysia%20-%20Lagu%20Rock%20Malaysia%20Lama%20ukielaki.webm
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Uks.webp" group-title="Musik Mix", Uk's
@@ -4416,6 +4365,7 @@ https://mutia1503.ukielaki88.workers.dev/0:/Album%20musik%20melayu/Search%20-%20
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Slam.webp" group-title="Musik Mix", Slam
 https://mutia1503.ukielaki88.workers.dev/0:/Album%20musik%20melayu/SLAM%20FULL%20ALBUM(HQ)-Kumpulan%20Lagu%20terbaik%20Slam_Top%20Lagu%20Pilihan%20Slam%20ukielaki.webm
+
 
 
 ============ Alur Cerita Film =============
@@ -4443,7 +4393,7 @@ https://movieku.ukielaki8387.workers.dev/0:/Alur%20cerita/Green%20book%20(2018).
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Kraven.webp" group-title="Alur Cerita Film", Kraven The Hunter (2024)
 https://movieku.ukielaki8387.workers.dev/0:/Alur%20cerita/Kraven%20the%20hunter%20(2024).mp4
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Leon.webp" group-title="Alur Cerita Film", Lion The Professional (1994)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Leon.webp" group-title="Alur Cerita Film", Leon The Professional (1994)
 https://movieku.ukielaki8387.workers.dev/0:/Alur%20cerita/Lion%20the%20professional%20(1994).mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Marco.webp" group-title="Alur Cerita Film", Marco (2024)
@@ -4488,4 +4438,94 @@ https://movieku.ukielaki8387.workers.dev/0:/Alur%20cerita/Wake%20up%20(2024).mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/wolfman.webp" group-title="Alur Cerita Film", Wolfman (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Alur%20cerita/Wolf%20man%20(2025).mp4
+ 
+ 
+ ============  sub indo ===================
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Papa,_zola.webp" group-title="Film Subtitle", Papa zola the movie (2025)
+https://mutia1503.ukielaki88.workers.dev/0:/Movies%20sub%20indo/Papa%20Zola-%20The%20Movie%20(2025).mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Avatar_aang.webp" group-title="Film Subtitle", The last airbender (2026)
+https://mutia1503.ukielaki88.workers.dev/0:/Movies%20sub%20indo/The%20Legend%20of%20Aang-%20The%20Last%20Airbender%20(2026).mp4
+ 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/ant-man-and-the-wasp-quantumania.webp" group-title="Film Subtitle", Ant-man and the wasp quantumania (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/Ant%20Man%20And%20The%20Wasp%20Quantumania%202023%20ukielaki.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/elemental.webp" group-title="Film Subtitle", Elemental (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/elemental%202023.mp4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Insidious.webp" group-title="Film Subtitle", Insidious the red door (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/insidious%20the%20red%20door%202023.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Johnwick1.webp" group-title="Film Subtitle", John Wick 1
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/john%20wick%201%20ukielaki.mp4
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Johnwick2.webp" group-title="Film Subtitle", John Wick 2
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/john%20wick%202%20ukielaki.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Johnwick3.webp" group-title="Film Subtitle", John Wick 3
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/john%20wick%203%20ukielaki.mp4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Johnwick4.webp" group-title="Film Subtitle", John Wick 4
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/John.Wick.Chapter.4.2023.V1.720P%20ukielaki.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Zodiac.webp" group-title="Film Subtitle", Knights of the zodiac (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/Knights%20of%20the%20Zodiac%20(2023)-1080p.ukielaki.mp4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Mariobros_movie.webp" group-title="Film Subtitle", Mario bross the movie (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/Mario%20bros%202023%20ukielaki.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Mousequiteries.webp" group-title="Film Subtitle", Mousequiteries Dartagnan (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/Mousquetaires.Dartagnan.2023.1080P%20ukielaki.mp4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/transformers-rise-of-the-best.webp" group-title="Film Subtitle", Transformers rise of the beasts (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/transformers%20rise%20of%20the%20beasts%20ukielaki%202023.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Onepiecered.webp" group-title="Film Subtitle", One piece red (2022)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/one%20piece%20red%202022%20ukielaki.mp4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Peterpanwendy.webp" group-title="Film Subtitle", peterpan and wendy (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/peterpan%20and%20wendy%20ukielaki.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Shin.webp" group-title="Film Subtitle", Shin Kamen Rider (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/Shin.Kamen.Rider.2023.WEB-DL.720p%20ukielaki.mp4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/The_flash.webp" group-title="Film Subtitle", The Flash (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/the%20flash%202023%20ukielaki.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Tewilight1.webp" group-title="Film Subtitle", Tewilight (2008)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/the%20twilight%202008%20ukielaki.mp4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Tewilight2.webp" group-title="Film Subtitle", The Twilight Saga: New Moon (2009)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/the%20twilight%20saga%202009%20ukielaki.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Tewilight3.webp" group-title="Film Subtitle", The Twilight Saga: Eclipse (2010)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/the%20twilight%20saga%202010%20ukielaki.mp4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Tewilight4.webp" group-title="Film Subtitle", The Twilight Saga: Breaking Dawn – Part 1 (2011)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/the%20twilight%20saga%204%202011%20ukielaki.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Tewilight5.webp" group-title="Film Subtitle", The Twilight Saga: Breaking Dawn – Part 2 (2012)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/the%20twilight%20saga%205%20part%202%202012%20ukielaki.mp4
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Spiderman_across.webp" group-title="Film Subtitle", Spider-man across the spider verse (2023)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/Watch%20Spider-Man%20Across%20the%20Spider-Verse%20(2023)%20Subtitle%20Indonesia%20ukielaki.mp4
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/Conjuring_byond.webp" group-title="Film Subtitle", Conjuring beyond (2022)
+https://mutia1503.ukielaki88.workers.dev/0:/Movie%20sub/conjuring%20the%20beyond%202022.mp4
+ 
  
