@@ -875,13 +875,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 
 
-<============= FILM DUBBING Mrzyb =======>
+============FILM DUBBING Mrzyb ==========
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/the_great_flod.webp" group-title="Film Dubbing",The Great Flood (2025)
+#EXTINF:-1 group-title="film dubbing" tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/my_name_vendetta (1).webp",My name is vendetta (2022) 
+https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/My%20name%20is%20vendetta%20(2022).mkv
+
+#EXTINF:-1 group-title="film dubbing" tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/the_great_flod.webp",The great flood (2025) 
 https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/The%20Great%20Flood%20(2025).mkv
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/my_name_vendetta (1).webp" group-title="Film Dubbing",My Name Is Vendetta (2022)
-https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/My%20name%20is%20vendetta%20(2022).mkv
 
 #EXTINF:-1 group-title="film dubbing" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/10000_bc.webp",10000 BC (2008) 
 https://cloud-oyen.eu.org/1:/Film%20Dubbing%20Indonesia/gendhutz/10,000%20BC%20(2008)%20[Dub%20Indo].mp4
@@ -2230,16 +2231,17 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/
 
 
 
-================== FILMS INDONESIA Mrzyb ===============
-
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/modual_nekad_2 (1).webp" group-title="Film Indonesia",Modual Nekat (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/modual%20nekat%20(2025).mp4
-
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/janur_ireng.webp" group-title="Film Indonesia",Janur Ireng (2025)
-https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/janur%20ireng%20(2025).mp4
-
+================== FILM INDONESIA Mrzyb ===============
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Timur.webp" group-title="film indonesia",Timur  (2025)
 https://mutia1503.ukielaki88.workers.dev/0:/Indonesia%20movie/timur_(2025).mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/modual_nekad_2 (1).webp" group-title="film indonesia",Modual nekad  (2025)
+https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/modual%20nekat%20(2025).mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/janur_ireng.webp" group-title="film indonesia",Janur Ireng  (2025)
+https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/janur%20ireng%20(2025).mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/wasiat_warisan.webp" group-title="film indonesia",Wasiat warisan  (2025)
 https://mutia1503.ukielaki88.workers.dev/0:/Indonesia%20movie/wasiat_warisan_(2025).mp4
@@ -3169,26 +3171,17 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indonesi
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjzp5dt2iACB9ESFWft2MgX35a1hqfKbQZZeND0vuQQ&s=10" group-title="film indonesia",The returning (2018)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies%20indo/The.Returning.2018.WEB-DL.720p.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvNMpyCf8Hrb2x3uVPMjCVjommnX5WHXHl3-myRbx0g&s=10" group-title="film indonesia",Laundry show (2019)
-https://storage.googleapis.com/b4c77a639a8ea0c9885.appspot.com/af1d5d88bb30907d446c6ade5025a58e_1663982157.mp4?sumber=awal_storage
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Pz9hmZoMb8Ai73sq_RWSsO0LiLKZgKgtcJpK8ODz3Q&s=10" group-title="film indonesia",Melodyan (2019)
-https://storage.googleapis.com/eae4549616bf99c277.appspot.com/a71d32ee4a398c0233ada9cabfe5f760_1665856138.mp4?sumber=awal_storage
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjvMH5gutCFN6E903nNKsUD1hAzk8uvSaiHnIjwRCYTA&s=10" group-title="film indonesia",Kiamat sudah dekat (2003)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indonesia/Film%20Kiamat%20sudah%20dekat%20(2003).mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJ2aNGOEbfjEH73ESrO0unRxzuncXEpzGcyENWNl9jA&s=10" group-title="film indonesia",Hantu kuburan tua (2015)
-https://storage.googleapis.com/ba187929d0369c8732f.appspot.com/dbddea92eba1133ffd83c719e87c07bd_1622720480.mp4?sumber=awal_storage
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRS8UvhFHy2A178S0p2S7dKNPbx_iPu4xMl6-wVMAXw&s=10" group-title="film indonesia",Seperti hujan yang turun ke bumi (2020)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20indonesia/Love%20Like%20the%20Falling%20Rain%20(2020).mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDgMfFvVmrVr40C530whnen-tk9uJIpOqHIDb2bM0Bg&s=10" group-title="film indonesia",Indra ke enam (2016)
-https://storage.googleapis.com/a922a8e24aef93b35c1.appspot.com/3dbdca5281e58c6af991e0da6c442c02_1663000960.mp4?sumber=awal_storage
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Cqart-pmUWyTjdJdPZTjAYKGo9n0NNUuSPwePIE7Lw&s=10" group-title="film indonesia",Hearts (2006)
-https://storage.googleapis.com/b87bf367bf88eb4e757.appspot.com/3ce4b5983774ce9f9980c00779da2622_1665522512.mp4?sumber=awal_storage
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFwEJBM6c_mDf2IP1xb2Q9r8B_Sy6WlzoQyPjspBHIg&s=10" group-title="film indonesia",Hafalan sholat delisa (2011)
 https://storage.googleapis.com/b0c768a32f267aa4d27.appspot.com/485c0103a3719937379837c085eafbcf_1622645441.mp4?sumber=awal_storage
@@ -3208,8 +3201,7 @@ https://storage.googleapis.com/c04d75987142182b90.appspot.com/06b2545b3a25ca790a
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3Y5m-Qent8QeiNkyU-5KGKQR7pfHsLw8MmSXyY54jw&s=10" group-title="film indonesia",Kutuk (2019)
 https://storage.googleapis.com/b826fd3a3941dc26.appspot.com/36e96ba1be33814dd26f2f040c035b26_1663066403.mp4?sumber=awal_storage
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzBJpgoMIiINhGXsJBqrO--PdhJI2Nd5ivv-6TkhowpQ&s=10" group-title="film indonesia",31 (2016)
-https://storage.googleapis.com/cf9efa4573678d4bd5.appspot.com/74edb7974d59631748d6e0ff3079d40c_1665201438.mp4?sumber=awal_storage
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvskjiw4Mxney1lcA2hruU4X7mm2BJve0D8gnCARuyaA&s=10" group-title="film indonesia",Bangku kosong (2006)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Movies%20indo/bangku%20kosong%20(2006).mp4
@@ -3426,7 +3418,7 @@ https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/Ice%20age%2
 #EXTINF:-1 tvg-id="" tvg-name="Lego disney princess villains unite (2025)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnJKEMnnIX7RPMcRZsjxqyDfXFc_DWOEZtmMVu7l1bQ&s=10" group-title="Film Animasi",Lego disney princess villains unite (2025)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/Lego%20disney%20princess%20villains%20unite%20(2025).mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Lilo & stitch the movie (2005)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJi0bewetCzftlx6VXiLtI6TlvMRq1UGxnXb-O5KoQPg&s=10" group-title="Film Animasi",Lilo & stitch the movie (2005)
+#EXTINF:-1 tvg-id="" tvg-name="Lilo & stitch the movie (2005)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo43yE5IBLvjMkKsqNsDd9hDn9wHjox6pHGh17jeKRLg&s=10" group-title="Film Animasi",Lilo & stitch the movie (2005)
 https://movieku.ukielaki8387.workers.dev/0:/Film%20animasi%20dubbing/Lilo%20and%20stitch%20the%20movie%20(2005).mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Reign of the supermen (2019)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZBtPGG9c-ZtRnnfTryiesMRJw7YyEOpWlaELq51Y_A&s=10" group-title="Film Animasi",Reign of the supermen (2019)
@@ -3707,7 +3699,7 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/F
 #EXTINF:-1 tvg-id="" tvg-name="Frozen fever (2015)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBsvP7hZ3oY877GsPrHHHanqo_lJyKbJ3DENeHSzNwJw&s=10" group-title="Film Animasi",Frozen fever (2015)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Frozen%20Fever%20(2015)%20Dubbing%20Indonesia.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Frozen (2019)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVCmtRLijH4cnGG_bhlAN6ZBDgiKcAD5xtWnR5ct0UlmG7cMMOgzfwgD8&s=10" group-title="Film Animasi",Frozen (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Frozen (2019)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWmywzHLdcmJhcv9FKR9_e89XTLhCsVZNmGjCq3XgQQ&s=10" group-title="Film Animasi",Frozen (2019)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20kartun/Frozen%20II%20(2019)%20Dubbing%20Indonesia.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Action boy (2011)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQfzwGBLDhJY3vF5NWyYl5tuvM2YVMzLRlreWTaI6-Q&s=10" group-title="Film Animasi",Action boy (2011)
@@ -4665,74 +4657,106 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Indonesia%20jadul/elang%20putih.m
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Indonesia%20jadul/gawang%20gawat.mp4
 #EXTINF:-1 tvg-id="" tvg-name="jaka tingkir (1983)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Jaka_tingkir.webp" group-title="Film Lawas",jaka tingkir (1983)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Indonesia%20jadul/jaka%20tingkir.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Rano karno kidung cinta (1985)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Kidung_cinta.webp" group-title="Film Lawas",Rano karno kidung cinta (1985)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Indonesia%20jadul/kidung%20cinta.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Barry prima pertarungan iblis merah (1988)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Pertarunganiblismerah.webp" group-title="Film Lawas",Barry prima pertarungan iblis merah (1988)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Indonesia%20jadul/pertarungan%20iblis%20merah.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Benyamin sama gila nya (1983)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Sama_gilanya.webp" group-title="Film Lawas",Benyamin sama gila nya (1983)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Indonesia%20jadul/sama%20gilanya.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="sesepuh majapahit (1995)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Sesepuh_majapahit.webp" group-title="Film Lawas",sesepuh majapahit (1995)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Indonesia%20jadul/sesepuh%20majapahit.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Siluman Srigala putih (1987)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Silumansrigalaputih.webp" group-title="Film Lawas",Siluman Srigala putih (1987)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Indonesia%20jadul/siluman%20buaya%20putih.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="srigala (1981)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Srigala.webp" group-title="Film Lawas",srigala (1981)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Indonesia%20jadul/srigala.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="si jalu dua putih (1990)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Sijalu2pendekarputih.webp" group-title="Film Lawas",si jalu dua putih (1990)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Indonesia%20jadul/SI%20JALU%20DUA%20PENDEKAR%20PUTIH%201990%20FULL%20MOVIE%20HD%20-%20SONNY%20DEWANTARA,%20YURIKE%20PRASTICA,%20LINA%20BUDIARTI.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Suzzana sundel bolong (1982)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Sundel_bolong.webp" group-title="Film Lawas",Suzzana sundel bolong (1982)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Indonesia%20jadul/Sundel%20bolong%20(1982).mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="warkop dki pintar-pintar bodoh (1981)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Pintar_bodoh.webp" group-title="Film Lawas",warkop dki pintar-pintar bodoh (1981)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Indonesia%20jadul/WARKOP%20DKI%20%20%20PINTAR%20PINTAR%20B0D0H%201980%20FULL%20MOVIE%20HD.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="warkop dki dongkrak antik (1982)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Dongkrak_antik.webp" group-title="Film Lawas",warkop dki dongkrak antik (1982)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Indonesia%20jadul/WARKOP%20DKI%20-%20DONGKRAK%20ANTIK%201982%20FULL%20MOVIE%20HD.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="warkop dki gantian dong (1985)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Gantian_dong.webp" group-title="Film Lawas",warkop dki gantian dong (1985)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Indonesia%20jadul/WARKOP%20DKI%20-%20GANTIAN%20DONG%201985%20FULL%20%20MOVIE%20HD.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="warkop dki itu bisa di atur (1984)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Itu_bisa_diatur.webp" group-title="Film Lawas",warkop dki itu bisa di atur (1984)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Indonesia%20jadul/WARKOP%20DKI%20-%20ITU%20BISA%20DIATUR%201984%20FULL%20MOVIE%20HD-ukielaki.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="warkop dki kesempatan dalam kesempitan (1985)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Kesempatan_dalam_kesempitan.webp" group-title="Film Lawas",warkop dki kesempatan dalam kesempitan (1985)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Indonesia%20jadul/WARKOP%20DKI%20-%20KESEMPATAN%20DALAM%20KESEMPITAN%201985%20FULL%20MOVIE%20HD.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="warkop dki bebas aturan main (1993)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Bebas_aturan_main.webp" group-title="Film Lawas",warkop dki bebas aturan main (1993)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Indonesia%20jadul/Warkop.DKI.Bebas.Aturan.Main.1993.1080p.NF.WEB-DL.DDP2.0.H.264-ukielaki.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="warkop dki depan bisa belakang bisa (1987)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Depanbisa_belakangbisa.webp" group-title="Film Lawas",warkop dki depan bisa belakang bisa (1987)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Indonesia%20jadul/Warkop.DKI.Depan.Bisa.Belakang.Bisa.1987.1080p.NF.WEB-DL.DDP2.0.H.264-ukielaki.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="warkop dki bisa naik bisa turun (1992)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Bisanaik_bisaturun.webp" group-title="Film Lawas",warkop dki bisa naik bisa turun (1992)
 https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Indonesia%20jadul/Warkop.DKI.Bisa.Naik.Bisa.Turun.1991.1080p.NF.WEB-DL.DDP2.0.H.264-ukielaki.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Warkop dki manusia enam juta dollar (1981)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Manusia_6juta.webp" group-title="Film Lawas",Warkop dki manusia enam juta dollar (1981)
-https://storage.googleapis.com/b90c80434edf473051.appspot.com/86f08d65f5139cff2d9eecd680a962de_1666237832.mp4?sumber=awal_storage
+
 #EXTINF:-1 tvg-id="" tvg-name="ateng kejamnya ibu tiri tak sekejam ibu kota (1981)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Tak_sekejam_ibukota.webp" group-title="Film Lawas",ateng kejamnya ibu tiri tak sekejam ibu kota (1981)
 https://ia801506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/%20Ateng%20Kejamnya%20Ibu%20Tiri%20tak%20Sekejam%20Ibu%20Kota.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="ateng pendekar aneh (1977)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Pendekar_aneh.webp" group-title="Film Lawas",ateng pendekar aneh (1977)
 https://download.fileku.eu.org/0:/INDONESIAN/%23Film%20Indo-Malay/%23Film%20Indonesia/Ateng%20Pendekar%20Aneh/Ateng.Pendekar.Aneh.1977.720p.MOLA.WEB-DL.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="ateng raja penyamun (1974)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Ateng_rajapenyamun.webp" group-title="Film Lawas",ateng raja penyamun (1974)
 https://ia801506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/ATENG%20RAJA%20PENYAMUN%20%281974%29%20.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="si pitung banteng betawi (1971)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Pitung_bentengbetawi.webp" group-title="Film Lawas",si pitung banteng betawi (1971)
 https://ia801506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/Si%20Pitung%20Banteng%20Betawi%20-%20Si%20Pitung%201.ia.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="si pitung (1971)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Sipitung.webp" group-title="Film Lawas",si pitung (1971)
 https://ia801506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/Banteng%20Betawi%202%20-%20Si%20Pitung%20-%202.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="ateng dang ding dong (1978)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Dangdingdong.webp" group-title="Film Lawas",ateng dang ding dong (1978)
 https://ia801506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/Ateng%20Dang%20Ding%20Dong.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Bagio Ketemu jodoh (1973)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Bagio_ketemujodoh.webp" group-title="Film Lawas",Bagio Ketemu jodoh (1973)
 https://ia801506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/film%20indonesia%20jadul%20-%20ketemu%20jodoh%20%281973%29.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Warkop dki bagito (1989)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Warkop_bagito.webp" group-title="Film Lawas",Warkop dki bagito (1989)
 https://ia601506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/BAGITO%20Grup%26%20WARKOP%20Lebaran%2089%20Eps1.ia.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="warkop dki bagito part 2 (1989)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Warkop_bagito.webp" group-title="Film Lawas",warkop dki bagito part 2 (1989)
 https://ia801506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/BAGITO%20Grup%26%20WARKOP%20Lebaran%2089%20Eps2.ia.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Benyamin musuh bebuyutan (1974)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Musuh_bebuyutan.webp" group-title="Film Lawas",Benyamin musuh bebuyutan (1974)
 https://ia801506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/Musuh%20Bebuyutan%20Part%201%20%28Benyamin%20Sueb%29.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Benyamin musuh bebuyutan part 2 (1974)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Musuh_bebuyutan.webp" group-title="Film Lawas",Benyamin musuh bebuyutan part 2 (1974)
 https://ia601506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/Musuh%20Bebuyutan%20Part%202%20%28%20Benyamin%20sueb%29.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="legenda roro mendut (1989)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Roro_mendut.webp" group-title="Film Lawas",legenda roro mendut (1989)
 https://ia803203.us.archive.org/34/items/film_indo_tahun_1980-1989/Legenda%20Roro%20Mendut%20%281982%29%20720p%20filmgrewal.blogspot.com.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="barry prima malaikat bayangan (1989)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Malaikat_bayangan.webp" group-title="Film Lawas",barry prima malaikat bayangan (1989)
 https://ia903203.us.archive.org/34/items/film_indo_tahun_1980-1989/Malaikat%20Bayangan%20%281988%29%20%28360p%29%20filmgrewal.blogspot.com.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="barry prima primitif (1978)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Primitif.webp" group-title="Film Lawas",barry prima primitif (1978)
 https://ia804600.us.archive.org/2/items/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457/Y2Mate.is%20-%20Primitive%20A.K.A%20Savage%20Terror%20(1980)%20Indonesian%20Dub-1Rrx9aa3wmo-720p-1637822852457.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="pembalasan naga sakti (1986)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Nagasakti.webp" group-title="Film Lawas",pembalasan naga sakti (1986)
 https://ia904506.us.archive.org/30/items/naga-sakti-1986/Naga%20Sakti%20%281986%29.ia.mp4?cnt=0
+
 #EXTINF:-1 tvg-id="" tvg-name="Ali topan anak jalanan (1977)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Ali_topan.webp" group-title="Film Lawas",Ali topan anak jalanan (1977)
 https://ia904503.us.archive.org/19/items/ali-topan-anak-jalanan-1977/Ali%20Topan%20Anak%20Jalanan%20%281977%29.avi
+
 #EXTINF:-1 tvg-id="" tvg-name="koboi cengeng adi bing slamet (1974)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Koboi_cengeng.webp" group-title="Film Lawas",koboi cengeng adi bing slamet (1974)
 https://ia801506.us.archive.org/9/items/ateng-kaya-mendadak-1975-hd/Bing%20Slamet%20Koboi%20Cengeng%20%281974%29%20Upscale%20to%20HD.ia.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="djago (1990)" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Djago.webp" group-title="Film Lawas",djago (1990)
 https://storage.googleapis.com/d196e82636de45b.appspot.com/d5950d11b8ed3c07be04376e03a2293b_1664110415.mp4?sumber=awal_storage
 
