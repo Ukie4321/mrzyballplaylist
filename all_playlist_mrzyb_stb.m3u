@@ -877,6 +877,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 <============= FILM DUBBING Mrzyb =======>
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/the_great_flod.webp" group-title="Film Dubbing",The Great Flood (2025)
+https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/The%20Great%20Flood%20(2025).mkv
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/my_name_vendetta (1).webp" group-title="Film Dubbing",My Name Is Vendetta (2022)
+https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/My%20name%20is%20vendetta%20(2022).mkv
 
 #EXTINF:-1 group-title="film dubbing" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/10000_bc.webp",10000 BC (2008) 
 https://cloud-oyen.eu.org/1:/Film%20Dubbing%20Indonesia/gendhutz/10,000%20BC%20(2008)%20[Dub%20Indo].mp4
@@ -2227,6 +2232,11 @@ https://mrzybkoleksi.ukielaki88.workers.dev/0:/Album%20film%202/Movie%20dubbing/
 
 ================== FILMS INDONESIA Mrzyb ===============
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/modual_nekad_2 (1).webp" group-title="Film Indonesia",Modual Nekat (2025)
+https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/modual%20nekat%20(2025).mp4
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dkmabskzc/image/fetch/w_300,q_60,l_Logoku_jon0v3,w_90,o_90,g_north_west,x_10,y_2/https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_dubbing/janur_ireng.webp" group-title="Film Indonesia",Janur Ireng (2025)
+https://movieku.ukielaki8387.workers.dev/0:/Campuran%20link/janur%20ireng%20(2025).mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_indonesia/Timur.webp" group-title="film indonesia",Timur  (2025)
 https://mutia1503.ukielaki88.workers.dev/0:/Indonesia%20movie/timur_(2025).mp4
